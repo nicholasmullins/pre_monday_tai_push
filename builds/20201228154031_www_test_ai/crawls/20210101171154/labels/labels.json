@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00006_25_a.png": [
+            "lnk_starwest"
+        ], 
+        "iter_00000_step_00007_14_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00007_1_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00007_27_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00007_5_a.png": [
+            "mnu_product"
+        ]
+    }, 
+    "screens": {}
+}

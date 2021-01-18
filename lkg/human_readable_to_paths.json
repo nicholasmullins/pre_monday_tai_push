@@ -1,0 +1,393 @@
+{
+    "btn_demo": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_12_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00000_15_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00000_22_a.png"
+    ], 
+    "btn_demo_ap": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00001_15_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00011_10_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00016_39_a.png"
+    ], 
+    "btn_demo_home": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00013_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00011_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109132433/elems/iter_00000_step_00001_7_a.png"
+    ], 
+    "div_test_ai_news": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00019_7_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00001_6_android.widget.TextView.png"
+    ], 
+    "icn_close_agile_modal": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101193347/elems/iter_00000_step_00001_8_span.png"
+    ], 
+    "icn_footer_home": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103145817/elems/iter_00000_step_00004_35_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103172257/elems/iter_00000_step_00001_26_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00016_0_div.png"
+    ], 
+    "icn_footer_linkedin": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103172257/elems/iter_00000_step_00001_28_svg.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00001_29_svg.png"
+    ], 
+    "icn_footer_youtube": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00016_34_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103172257/elems/iter_00000_step_00001_11_a.png"
+    ], 
+    "icn_home": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101171154/elems/iter_00000_step_00000_14_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_31_img.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00005_22_img.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00000_1_img.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00000_21_a.png"
+    ], 
+    "img_logo_hustef": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101182651/elems/iter_00000_step_00001_4_img.png"
+    ], 
+    "img_robot_main": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109134315/elems/iter_00000_step_00000_8_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00000_21_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00000_13_div.png"
+    ], 
+    "img_target_walmart": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109142156/elems/iter_00000_step_00003_0_img.png"
+    ], 
+    "img_testops": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109134315/elems/iter_00000_step_00001_39_img.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109134315/elems/iter_00000_step_00001_16_div.png"
+    ], 
+    "lnk_acct_exec_cent": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_4_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00027_5_a.png"
+    ], 
+    "lnk_acct_exec_east": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102144129/elems/iter_00000_step_00005_10_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00027_9_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00019_5_a.png"
+    ], 
+    "lnk_agile": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_17_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_17_h3.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_9_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00017_33_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_31_h3.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_3_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_35_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_4_div.png"
+    ], 
+    "lnk_agile_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102120819/elems/iter_00000_step_00001_10_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102120819/elems/iter_00000_step_00000_9_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101191743/elems/iter_00000_step_00004_1_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101185629/elems/iter_00000_step_00001_6_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102120819/elems/iter_00000_step_00002_8_android.widget.TextView.png"
+    ], 
+    "lnk_ai_software_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105161615/elems/iter_00000_step_00001_20_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105153631/elems/iter_00000_step_00011_20_android.widget.TextView.png"
+    ], 
+    "lnk_announcing_otd": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00017_13_a.png"
+    ], 
+    "lnk_art_int_software_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_27_android.widget.TextView.png"
+    ], 
+    "lnk_becoming_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105173833/elems/iter_00000_step_00007_26_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_19_android.widget.TextView.png"
+    ], 
+    "lnk_best_apps": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00017_10_a.png"
+    ], 
+    "lnk_bg": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210104152335/elems/iter_00000_step_00004_41_a.png"
+    ], 
+    "lnk_bg_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00001_23_android.widget.TextView.png"
+    ], 
+    "lnk_business_dev_rep": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_1_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102170144/elems/iter_00000_step_00012_0_a.png"
+    ], 
+    "lnk_careers": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_21_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00000_18_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00000_11_a.png"
+    ], 
+    "lnk_contact": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00000_28_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_14_div.png"
+    ], 
+    "lnk_cust_success_eng": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00009_1_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_15_a.png"
+    ], 
+    "lnk_data_sheet": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102193700/elems/iter_00000_step_00022_28_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00001_14_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00007_22_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00015_22_a.png"
+    ], 
+    "lnk_digital_mktg_mgr": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_14_a.png"
+    ], 
+    "lnk_eeo_pdf": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102170144/elems/iter_00000_step_00011_13_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102170144/elems/iter_00000_step_00007_4_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00008_3_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00010_20_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00033_1_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102170144/elems/iter_00000_step_00015_3_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102170144/elems/iter_00000_step_00017_24_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00013_21_a.png"
+    ], 
+    "lnk_eurostar": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00017_23_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_23_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_13_a.png"
+    ], 
+    "lnk_events": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00005_14_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_0_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109134315/elems/iter_00000_step_00000_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00000_19_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101171154/elems/iter_00000_step_00000_1_a.png"
+    ], 
+    "lnk_fifty_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105153631/elems/iter_00000_step_00011_8_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105161615/elems/iter_00000_step_00001_17_android.widget.TextView.png"
+    ], 
+    "lnk_fitness_industry": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00004_22_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00002_22_a.png"
+    ], 
+    "lnk_footer_about_us": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00001_24_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103172257/elems/iter_00000_step_00001_18_a.png"
+    ], 
+    "lnk_footer_contact": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103172257/elems/iter_00000_step_00001_13_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00001_11_a.png"
+    ], 
+    "lnk_footer_events": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00017_29_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00001_25_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_34_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00010_16_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_3_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00013_3_a.png"
+    ], 
+    "lnk_footer_team": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00016_22_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103172257/elems/iter_00000_step_00001_6_a.png"
+    ], 
+    "lnk_future_software_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00027_29_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00020_21_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00016_31_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_1_android.widget.TextView.png"
+    ], 
+    "lnk_future_testing_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00006_17_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00004_15_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108171747/elems/iter_00000_step_00010_13_android.widget.TextView.png"
+    ], 
+    "lnk_gaming": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00010_3_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00008_3_a.png"
+    ], 
+    "lnk_hustef": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00017_17_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_5_a.png"
+    ], 
+    "lnk_in_the_news": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00020_30_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00017_30_a.png"
+    ], 
+    "lnk_industries": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_4_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00000_3_a.png"
+    ], 
+    "lnk_industries_we_serve": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00014_4_a.png"
+    ], 
+    "lnk_intro_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_14_android.widget.TextView.png"
+    ], 
+    "lnk_moving_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00051_22_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_38_android.widget.TextView.png"
+    ], 
+    "lnk_new_era_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00004_9_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108171747/elems/iter_00000_step_00010_17_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108171747/elems/iter_00000_step_00004_4_android.widget.TextView.png"
+    ], 
+    "lnk_pnsqc": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00017_20_a.png"
+    ], 
+    "lnk_qfq": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00017_21_a.png"
+    ], 
+    "lnk_quest": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105133836/elems/iter_00000_step_00004_6_a.png"
+    ], 
+    "lnk_rise_testops": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00020_1_a.png"
+    ], 
+    "lnk_sales": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00007_27_a.png"
+    ], 
+    "lnk_sales_eng_cent": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_11_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00009_6_a.png"
+    ], 
+    "lnk_sales_eng_east": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_17_a.png"
+    ], 
+    "lnk_sales_eng_west": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102170144/elems/iter_00000_step_00008_5_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_21_a.png"
+    ], 
+    "lnk_sales_op": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102155105/elems/iter_00000_step_00027_32_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102163738/elems/iter_00000_step_00002_12_a.png"
+    ], 
+    "lnk_schedule_agile": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101193347/elems/iter_00000_step_00000_7_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00011_31_a.png"
+    ], 
+    "lnk_schedule_starwest": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00011_7_a.png"
+    ], 
+    "lnk_sign_up": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105114429/elems/iter_00000_step_00008_26_a.png"
+    ], 
+    "lnk_starwest": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00008_18_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101171154/elems/iter_00000_step_00001_25_a.png"
+    ], 
+    "lnk_test_ai": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102193700/elems/iter_00000_step_00015_4_a.png"
+    ], 
+    "lnk_test_ai_one": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00007_25_a.png"
+    ], 
+    "lnk_test_ai_raises_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_31_android.widget.Button.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00007_12_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00014_18_android.widget.Button.png"
+    ], 
+    "lnk_test_ai_two": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00007_20_a.png"
+    ], 
+    "lnk_test_automation_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108171747/elems/iter_00000_step_00006_1_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108171747/elems/iter_00000_step_00010_1_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00004_13_android.widget.TextView.png"
+    ], 
+    "lnk_thirteen_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_25_android.widget.TextView.png"
+    ], 
+    "lnk_thirty_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_7_android.widget.TextView.png"
+    ], 
+    "lnk_tisqa_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_34_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00037_24_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00034_15_android.widget.TextView.png"
+    ], 
+    "lnk_transforming_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00037_21_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_15_android.widget.TextView.png"
+    ], 
+    "lnk_trends_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00049_32_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00051_11_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_33_android.widget.TextView.png"
+    ], 
+    "lnk_two_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00005_4_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00002_21_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00007_2_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00014_0_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108134212/elems/iter_00000_step_00012_11_android.widget.TextView.png"
+    ], 
+    "lnk_we_build": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_41_a.png"
+    ], 
+    "lnk_we_build_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109133353/elems/iter_00000_step_00002_1_android.widget.TextView.png"
+    ], 
+    "lnk_why_ai_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105153631/elems/iter_00000_step_00009_19_android.widget.TextView.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105161615/elems/iter_00000_step_00001_26_android.widget.TextView.png"
+    ], 
+    "lnk_will_ai_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00001_21_android.widget.TextView.png"
+    ], 
+    "lnk_will_bots_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210108152248/elems/iter_00000_step_00004_18_android.widget.TextView.png"
+    ], 
+    "mi_about_us": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00002_41_a.png"
+    ], 
+    "mi_all_products": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105114429/elems/iter_00000_step_00002_1_a.png"
+    ], 
+    "mi_news": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00002_22_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00002_4_div.png"
+    ], 
+    "mi_personal_edition": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00002_12_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109092727/elems/iter_00000_step_00002_4_div.png"
+    ], 
+    "mi_privacy_policy": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00002_39_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00002_35_div.png"
+    ], 
+    "mi_resources": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102193700/elems/iter_00000_step_00002_40_a.png"
+    ], 
+    "mi_service_terms": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00002_14_a.png"
+    ], 
+    "mi_team": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102193700/elems/iter_00000_step_00002_32_a.png"
+    ], 
+    "mi_website_terms": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00002_15_a.png"
+    ], 
+    "mnu_company": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210105131225/elems/iter_00000_step_00000_31_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210103130416/elems/iter_00000_step_00004_24_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00023_1_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101171154/elems/iter_00000_step_00000_27_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_48_a.png"
+    ], 
+    "mnu_product": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109132433/elems/iter_00000_step_00000_28_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101090818/elems/iter_00000_step_00000_31_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210109113616/elems/iter_00000_step_00005_36_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152534/elems/iter_00000_step_00000_5_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00023_34_a.png"
+    ], 
+    "tle_agile": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00017_2_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00015_16_div.png"
+    ], 
+    "tle_eurostar": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00019_31_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101173747/elems/iter_00000_step_00001_7_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101183609/elems/iter_00000_step_00001_24_div.png"
+    ], 
+    "tle_hustef": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00014_22_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210101152715/elems/iter_00000_step_00015_21_div.png"
+    ], 
+    "txt_disability_image": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210102153311/elems/iter_00000_step_00001_18_android.widget.TextView.png"
+    ]
+}

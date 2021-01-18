@@ -1,0 +1,71 @@
+{
+    "elems": {
+        "iter_00000_step_00005_13_android.widget.TextView.png": [
+            "lnk_test_automation_image"
+        ], 
+        "iter_00000_step_00005_15_android.widget.TextView.png": [
+            "lnk_future_testing_image"
+        ], 
+        "iter_00000_step_00005_18_android.widget.TextView.png": [
+            "lnk_will_bots_image"
+        ], 
+        "iter_00000_step_00005_9_android.widget.TextView.png": [
+            "lnk_new_era_image"
+        ], 
+        "iter_00000_step_00006_26_android.widget.TextView.png": [
+            "lnk_becoming_image"
+        ], 
+        "iter_00000_step_00007_17_android.widget.TextView.png": [
+            "lnk_fifty_image"
+        ], 
+        "iter_00000_step_00007_20_android.widget.TextView.png": [
+            "lnk_ai_software_image"
+        ], 
+        "iter_00000_step_00007_21_android.widget.TextView.png": [
+            "lnk_will_ai_image"
+        ], 
+        "iter_00000_step_00007_23_android.widget.TextView.png": [
+            "lnk_bg_image"
+        ], 
+        "iter_00000_step_00007_26_android.widget.TextView.png": [
+            "lnk_why_ai_image"
+        ], 
+        "iter_00000_step_00007_6_android.widget.TextView.png": [
+            "div_test_ai_news"
+        ], 
+        "iter_00000_step_00008_14_android.widget.TextView.png": [
+            "lnk_intro_image"
+        ], 
+        "iter_00000_step_00008_15_android.widget.TextView.png": [
+            "lnk_transforming_image"
+        ], 
+        "iter_00000_step_00008_19_android.widget.TextView.png": [
+            "lnk_becoming_image"
+        ], 
+        "iter_00000_step_00008_21_android.widget.TextView.png": [
+            "lnk_two_image"
+        ], 
+        "iter_00000_step_00008_25_android.widget.TextView.png": [
+            "lnk_thirteen_image"
+        ], 
+        "iter_00000_step_00008_27_android.widget.TextView.png": [
+            "lnk_art_int_software_image"
+        ], 
+        "iter_00000_step_00008_31_android.widget.Button.png": [
+            "lnk_test_ai_raises_image"
+        ], 
+        "iter_00000_step_00008_33_android.widget.TextView.png": [
+            "lnk_trends_image"
+        ], 
+        "iter_00000_step_00008_34_android.widget.TextView.png": [
+            "lnk_tisqa_image"
+        ], 
+        "iter_00000_step_00008_38_android.widget.TextView.png": [
+            "lnk_moving_image"
+        ], 
+        "iter_00000_step_00008_7_android.widget.TextView.png": [
+            "lnk_thirty_image"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00005_17_android.widget.TextView.png": [
+            "lnk_fifty_image"
+        ], 
+        "iter_00000_step_00005_20_android.widget.TextView.png": [
+            "lnk_ai_software_image"
+        ], 
+        "iter_00000_step_00005_21_android.widget.TextView.png": [
+            "lnk_will_ai_image"
+        ], 
+        "iter_00000_step_00005_23_android.widget.TextView.png": [
+            "lnk_bg_image"
+        ], 
+        "iter_00000_step_00005_26_android.widget.TextView.png": [
+            "lnk_why_ai_image"
+        ], 
+        "iter_00000_step_00005_6_android.widget.TextView.png": [
+            "div_test_ai_news"
+        ]
+    }, 
+    "screens": {}
+}

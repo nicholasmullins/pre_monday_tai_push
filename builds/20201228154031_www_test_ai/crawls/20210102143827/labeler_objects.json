@@ -1,0 +1,1086 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_div.png": "iter_00000_step_00000_0_div.png", 
+            "iter_00000_step_00000_10_div.png": "iter_00000_step_00000_10_div.png", 
+            "iter_00000_step_00000_11_a.png": "iter_00000_step_00000_11_a.png", 
+            "iter_00000_step_00000_12_div.png": "iter_00000_step_00000_12_div.png", 
+            "iter_00000_step_00000_13_div.png": "iter_00000_step_00000_13_div.png", 
+            "iter_00000_step_00000_14_a.png": "iter_00000_step_00000_14_a.png", 
+            "iter_00000_step_00000_15_div.png": "iter_00000_step_00000_15_div.png", 
+            "iter_00000_step_00000_16_div.png": "iter_00000_step_00000_16_div.png", 
+            "iter_00000_step_00000_17_div.png": "iter_00000_step_00000_17_div.png", 
+            "iter_00000_step_00000_18_div.png": "iter_00000_step_00000_18_div.png", 
+            "iter_00000_step_00000_19_div.png": "iter_00000_step_00000_19_div.png", 
+            "iter_00000_step_00000_1_a.png": "iter_00000_step_00000_1_a.png", 
+            "iter_00000_step_00000_20_div.png": "iter_00000_step_00000_20_div.png", 
+            "iter_00000_step_00000_21_div.png": "iter_00000_step_00000_21_div.png", 
+            "iter_00000_step_00000_22_a.png": "iter_00000_step_00000_22_a.png", 
+            "iter_00000_step_00000_23_div.png": "iter_00000_step_00000_23_div.png", 
+            "iter_00000_step_00000_24_div.png": "iter_00000_step_00000_24_div.png", 
+            "iter_00000_step_00000_25_div.png": "iter_00000_step_00000_25_div.png", 
+            "iter_00000_step_00000_26_div.png": "iter_00000_step_00000_26_div.png", 
+            "iter_00000_step_00000_27_a.png": "iter_00000_step_00000_27_a.png", 
+            "iter_00000_step_00000_28_a.png": "iter_00000_step_00000_28_a.png", 
+            "iter_00000_step_00000_29_img.png": "iter_00000_step_00000_29_img.png", 
+            "iter_00000_step_00000_2_div.png": "iter_00000_step_00000_2_div.png", 
+            "iter_00000_step_00000_30_a.png": "iter_00000_step_00000_30_a.png", 
+            "iter_00000_step_00000_31_div.png": "iter_00000_step_00000_31_div.png", 
+            "iter_00000_step_00000_32_div.png": "iter_00000_step_00000_32_div.png", 
+            "iter_00000_step_00000_3_div.png": "iter_00000_step_00000_3_div.png", 
+            "iter_00000_step_00000_4_div.png": "iter_00000_step_00000_4_div.png", 
+            "iter_00000_step_00000_5_a.png": "iter_00000_step_00000_5_a.png", 
+            "iter_00000_step_00000_6_div.png": "iter_00000_step_00000_6_div.png", 
+            "iter_00000_step_00000_7_div.png": "iter_00000_step_00000_7_div.png", 
+            "iter_00000_step_00000_8_div.png": "iter_00000_step_00000_8_div.png", 
+            "iter_00000_step_00000_9_div.png": "iter_00000_step_00000_9_div.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "IFgIi+HWapOb9zzyLaOvDg==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X1200_Y64_W81_H35", 
+                    "tag_name": "div", 
+                    "text": "Industries", 
+                    "width": 81, 
+                    "x": 1200, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Industries"
+                ]
+            }, 
+            "iter_00000_step_00000_10_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "yPHLEAjL9DAWWK+vSJvQEg==\n", 
+                    "height": 445, 
+                    "human_hash": "div_X1199_Y226_W478_H445", 
+                    "tag_name": "div", 
+                    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                    "width": 478, 
+                    "x": 1199, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>"
+                ]
+            }, 
+            "iter_00000_step_00000_11_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "ozHlUbQtu4H/0b8f9kvx4A==\n", 
+                    "height": 35, 
+                    "human_hash": "a_X1495_Y64_W61_H35", 
+                    "tag_name": "a", 
+                    "text": "Careers", 
+                    "width": 61, 
+                    "x": 1495, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Careers"
+                ]
+            }, 
+            "iter_00000_step_00000_12_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "g3S0x3JHbysEyztVXecpFA==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X1495_Y64_W61_H35", 
+                    "tag_name": "div", 
+                    "text": "Careers", 
+                    "width": 61, 
+                    "x": 1495, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Careers"
+                ]
+            }, 
+            "iter_00000_step_00000_13_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "Edn0blYJe0bnakAteHhQMQ==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X1413_Y64_W53_H35", 
+                    "tag_name": "div", 
+                    "text": "Events", 
+                    "width": 53, 
+                    "x": 1413, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Events"
+                ]
+            }, 
+            "iter_00000_step_00000_14_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "ug65Txr6IOQTy6nBkaHlig==\n", 
+                    "height": 47, 
+                    "human_hash": "a_X77_Y58_W208_H47", 
+                    "tag_name": "a", 
+                    "text": "", 
+                    "width": 208, 
+                    "x": 77, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_15_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "ZEH7Kh/ziXzNZ/ekDGQmGQ==\n", 
+                    "height": 572, 
+                    "human_hash": "div_X183_Y162_W1554_H572", 
+                    "tag_name": "div", 
+                    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.\u00a0\u00a0\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    \n\n      \n\n      \n        \n          \n        \n        \n\n        \n          \n            \n          \n            <img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                    "width": 1554, 
+                    "x": 183, 
+                    "y": 162
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy_Software_Test_Automation_Tools_with_test.aiAI_provides_the_speed_that_QA_teams_need_to_keep_up_with_DevOps_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale.\u00a0\u00a0\n\n\n\n\n\n\n\n\n__\n\n____\n__\n____\n\n______\n\n______\n________\n__________\n________\n________\n\n________\n__________\n____________\n__________\n____________<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>"
+                ]
+            }, 
+            "iter_00000_step_00000_16_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "l1UL45+IIhY71ft4ckeo0Q==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X1109_Y64_W62_H35", 
+                    "tag_name": "div", 
+                    "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition", 
+                    "width": 62, 
+                    "x": 1109, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition"
+                ]
+            }, 
+            "iter_00000_step_00000_17_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_17_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "GIRGCriqWtNA6GVIvXR88w==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X1684_Y59_W159_H45", 
+                    "tag_name": "div", 
+                    "text": "Request a Demo", 
+                    "width": 159, 
+                    "x": 1684, 
+                    "y": 59
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Request_a_Demo"
+                ]
+            }, 
+            "iter_00000_step_00000_18_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_18_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "KAptJ4x3fhICCIBnSzuYSw==\n", 
+                    "height": 405, 
+                    "human_hash": "div_X243_Y226_W478_H405", 
+                    "tag_name": "div", 
+                    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.", 
+                    "width": 478, 
+                    "x": 243, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy_Software_Test_Automation_Tools_with_test.aiAI_provides_the_speed_that_QA_teams_need_to_keep_up_with_DevOps_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00000_19_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_19_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "0WRZHTxPTI1lV5JMDSQs1A==\n", 
+                    "height": 388, 
+                    "human_hash": "div_X260_Y226_W444_H388", 
+                    "tag_name": "div", 
+                    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.", 
+                    "width": 444, 
+                    "x": 260, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy_Software_Test_Automation_Tools_with_test.aiAI_provides_the_speed_that_QA_teams_need_to_keep_up_with_DevOps_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00000_1_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "eQCpZ3aMaI7HAGD1cDqekg==\n", 
+                    "height": 35, 
+                    "human_hash": "a_X1413_Y64_W53_H35", 
+                    "tag_name": "a", 
+                    "text": "Events", 
+                    "width": 53, 
+                    "x": 1413, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Events"
+                ]
+            }, 
+            "iter_00000_step_00000_20_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "K8i9U0tXp9KkRUcwdL4sew==\n", 
+                    "height": 55, 
+                    "human_hash": "div_X721_Y226_W119_H55", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 119, 
+                    "x": 721, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_21_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_21_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "MpZw/3FbXhxC2TegQGlKow==\n", 
+                    "height": 428, 
+                    "human_hash": "div_X1216_Y226_W444_H428", 
+                    "tag_name": "div", 
+                    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                    "width": 444, 
+                    "x": 1216, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>"
+                ]
+            }, 
+            "iter_00000_step_00000_22_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_22_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "oQMgHt9FvGUbqW3sF9kqDA==\n", 
+                    "height": 45, 
+                    "human_hash": "a_X1684_Y59_W159_H45", 
+                    "tag_name": "a", 
+                    "text": "Request a Demo", 
+                    "width": 159, 
+                    "x": 1684, 
+                    "y": 59
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Request_a_Demo"
+                ]
+            }, 
+            "iter_00000_step_00000_23_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_23_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "3vXYyb0JdfPrV1ojKk5J3w==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X1585_Y64_W61_H35", 
+                    "tag_name": "div", 
+                    "text": "Contact", 
+                    "width": 61, 
+                    "x": 1585, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_24_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_24_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "31v95S5WUUivjGc6yDZ1Yg==\n", 
+                    "height": 47, 
+                    "human_hash": "div_X77_Y58_W1569_H47", 
+                    "tag_name": "div", 
+                    "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact", 
+                    "width": 1569, 
+                    "x": 77, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_25_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "kD0dBClqoWwHuaMcjMwSyA==\n", 
+                    "height": 51, 
+                    "human_hash": "div_X840_Y226_W359_H51", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 359, 
+                    "x": 840, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_26_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "Y/DqIcAlYA4mtbFuG8sCWA==\n", 
+                    "height": 47, 
+                    "human_hash": "div_X77_Y58_W1766_H47", 
+                    "tag_name": "div", 
+                    "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact\n      \n    \n  \n  \n  \n\n\n\n                  \n                \n              \n            \n            \n          \n        \n          \n          \n          \n            \n            \n\n          \n          \n\n          \n          \n          \n\n            \n            \n            \n              \n                \n              \n            \n\n            \n            \n              \n            \n\n            \n              \n                \n                  Request a Demo\n                \n              \n            \n\n          \n          \n        \n          \n          \n          \n            \n              Open Menu\n              Close Menu", 
+                    "width": 1766, 
+                    "x": 77, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Contact\n______\n____\n__\n__\n__\n\n\n\n__________________\n________________\n______________\n____________\n____________\n__________\n________\n__________\n__________\n__________\n____________\n____________\n\n__________\n__________\n\n__________\n__________\n__________\n\n____________\n____________\n____________\n______________\n________________\n______________\n____________\n\n____________\n____________\n______________\n____________\n\n____________\n______________\n________________\n__________________Request_a_Demo\n________________\n______________\n____________\n\n__________\n__________\n________\n__________\n__________\n__________\n____________\n______________Open_Menu\n______________Close_Menu"
+                ]
+            }, 
+            "iter_00000_step_00000_27_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_27_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "bCFetwfvVVWSlzL+blvoIQ==\n", 
+                    "height": 35, 
+                    "human_hash": "a_X1310_Y64_W74_H35", 
+                    "tag_name": "a", 
+                    "text": "Company", 
+                    "width": 74, 
+                    "x": 1310, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Company"
+                ]
+            }, 
+            "iter_00000_step_00000_28_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_28_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "uSX5PID5E0YA0cIXUqt+Nw==\n", 
+                    "height": 35, 
+                    "human_hash": "a_X1585_Y64_W61_H35", 
+                    "tag_name": "a", 
+                    "text": "Contact", 
+                    "width": 61, 
+                    "x": 1585, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_29_img.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_29_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "CPyxZ/n+1T1AZIVdZuvfbA==\n", 
+                    "height": 47, 
+                    "human_hash": "img_X77_Y58_W208_H47", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 208, 
+                    "x": 77, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_2_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_2_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "9MWSDH7kyA6zfQqjDo9RhA==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X1646_Y59_W197_H45", 
+                    "tag_name": "div", 
+                    "text": "Request a Demo", 
+                    "width": 197, 
+                    "x": 1646, 
+                    "y": 59
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Request_a_Demo"
+                ]
+            }, 
+            "iter_00000_step_00000_30_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_30_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "6Ift+HzCUP+0hM6JLh81+A==\n", 
+                    "height": 35, 
+                    "human_hash": "a_X1200_Y64_W81_H35", 
+                    "tag_name": "a", 
+                    "text": "Industries", 
+                    "width": 81, 
+                    "x": 1200, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Industries"
+                ]
+            }, 
+            "iter_00000_step_00000_31_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_31_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "7KBEzG+tz2qsB6cBhB5FIQ==\n", 
+                    "height": 162, 
+                    "human_hash": "div_X0_Y0_W1920_H162", 
+                    "tag_name": "div", 
+                    "text": "Skip to Content\n    \n\n    \n      \n      \n\n      \n        \n\n        \n\n        \n\n        \n\n        \n        \n          \n          \n          \n        \n          \n          \n          \n            \n\n            \n\n            \n              \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n                    \n\n                  \n                  \n                \n              \n            \n              \n              \n              \n                \n                  \n                    \n\n\n  \n    \n      Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact\n      \n    \n  \n  \n  \n\n\n\n                  \n                \n              \n            \n            \n          \n        \n          \n          \n          \n            \n            \n\n          \n          \n\n          \n          \n          \n\n            \n            \n            \n              \n                \n              \n            \n\n            \n            \n              \n            \n\n            \n              \n                \n                  Request a Demo\n                \n              \n            \n\n          \n          \n        \n          \n          \n          \n            \n              Open Menu\n              Close Menu\n              \n                \n                  \n                  \n                  \n                \n              \n            \n          \n        \n        \n        \n        \n        \n        \n\n      \n      \n        \n          \n            \n          \n          \n        \n            \n          \n          \n            \n\n            \n\n            \n              \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n                    \n\n                  \n                  \n                \n              \n            \n              \n              \n              \n                \n                  \n                    \n\n\n  \n    \n      Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact\n      \n    \n  \n  \n  \n\n\n\n                  \n                \n              \n            \n            \n          \n        \n            \n          \n          \n            \n            \n\n          \n          \n\n          \n          \n          \n\n            \n            \n            \n              \n                \n              \n            \n\n            \n            \n              \n            \n\n            \n              \n                \n                  Request a Demo\n                \n              \n            \n\n          \n          \n        \n            \n          \n          \n            \n              Open Menu\n              Close Menu", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Skip_to_Content\n____\n\n____\n______\n______\n\n______\n________\n\n________\n\n________\n\n________\n\n________\n________\n__________\n__________\n__________\n________\n__________\n__________\n__________\n____________\n\n____________\n\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n______________________\n________________________\n______________________\n____________________\n\n__________________\n__________________\n________________\n______________\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n\n\n__\n____\n______Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Contact\n______\n____\n__\n__\n__\n\n\n\n__________________\n________________\n______________\n____________\n____________\n__________\n________\n__________\n__________\n__________\n____________\n____________\n\n__________\n__________\n\n__________\n__________\n__________\n\n____________\n____________\n____________\n______________\n________________\n______________\n____________\n\n____________\n____________\n______________\n____________\n\n____________\n______________\n________________\n__________________Request_a_Demo\n________________\n______________\n____________\n\n__________\n__________\n________\n__________\n__________\n__________\n____________\n______________Open_Menu\n______________Close_Menu\n______________\n________________\n__________________\n__________________\n__________________\n________________\n______________\n____________\n__________\n________\n________\n________\n________\n________\n________\n\n______\n______\n________\n__________\n____________\n__________\n__________\n________\n____________\n__________\n__________\n____________\n\n____________\n\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n______________________\n________________________\n______________________\n____________________\n\n__________________\n__________________\n________________\n______________\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n\n\n__\n____\n______Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Contact\n______\n____\n__\n__\n__\n\n\n\n__________________\n________________\n______________\n____________\n____________\n__________\n________\n____________\n__________\n__________\n____________\n____________\n\n__________\n__________\n\n__________\n__________\n__________\n\n____________\n____________\n____________\n______________\n________________\n______________\n____________\n\n____________\n____________\n______________\n____________\n\n____________\n______________\n________________\n__________________Request_a_Demo\n________________\n______________\n____________\n\n__________\n__________\n________\n____________\n__________\n__________\n____________\n______________Open_Menu\n______________Close_Menu"
+                ]
+            }, 
+            "iter_00000_step_00000_32_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_32_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "PzznuSoOP8cKmFawPNlDsw==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X1310_Y64_W74_H35", 
+                    "tag_name": "div", 
+                    "text": "Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms", 
+                    "width": 74, 
+                    "x": 1310, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms"
+                ]
+            }, 
+            "iter_00000_step_00000_3_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "M+LM/NuTLsL0cwa8AVrVrQ==\n", 
+                    "height": 34, 
+                    "human_hash": "div_X738_Y797_W205_H34", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 205, 
+                    "x": 738, 
+                    "y": 797
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_4_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_4_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "EJoMAcBkwS92k3Yu1CuW4Q==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X323_Y64_W1323_H35", 
+                    "tag_name": "div", 
+                    "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact", 
+                    "width": 1323, 
+                    "x": 323, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_5_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "w/2in+R3Vbl16M+pbyCW2Q==\n", 
+                    "height": 35, 
+                    "human_hash": "a_X1109_Y64_W62_H35", 
+                    "tag_name": "a", 
+                    "text": "Product", 
+                    "width": 62, 
+                    "x": 1109, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Product"
+                ]
+            }, 
+            "iter_00000_step_00000_6_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "8qtfqK9T62B4AZ3wr7dWFQ==\n", 
+                    "height": 38, 
+                    "human_hash": "div_X738_Y226_W85_H38", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 85, 
+                    "x": 738, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_7_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "lSjhv5TJzaQc3vscgyQqpw==\n", 
+                    "height": 35, 
+                    "human_hash": "div_X284_Y64_W1362_H35", 
+                    "tag_name": "div", 
+                    "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact", 
+                    "width": 1362, 
+                    "x": 284, 
+                    "y": 64
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Product\n______\n________\n__________\n____________\n______________All_Products\n____________\n__________\n__________\n________\n__________\n____________\n______________Personal_Edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______Company\n______\n________\n__________\n____________\n______________About_us\n____________\n__________\n__________\n________\n__________\n____________\n______________Team\n____________\n__________\n__________\n________\n__________\n____________\n______________News\n____________\n__________\n__________\n________\n__________\n____________\n______________Resources\n____________\n__________\n__________\n________\n__________\n____________\n______________Privacy_Policy\n____________\n__________\n__________\n________\n__________\n____________\n______________Website_Terms\n____________\n__________\n__________\n________\n__________\n____________\n______________Service_Terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________Events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_8_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "AGvgXsDJZiCxmtG1LzRH2A==\n", 
+                    "height": 34, 
+                    "human_hash": "div_X857_Y226_W325_H34", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 325, 
+                    "x": 857, 
+                    "y": 226
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_9_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "hJexcYHMQcGDRzRoZ/5W8g==\n", 
+                    "height": 51, 
+                    "human_hash": "div_X721_Y797_W239_H51", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 239, 
+                    "x": 721, 
+                    "y": 797
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_15_div.png", 
+            "iter_00000_step_00000_31_div.png", 
+            "iter_00000_step_00000_10_div.png", 
+            "iter_00000_step_00000_18_div.png", 
+            "iter_00000_step_00000_21_div.png", 
+            "iter_00000_step_00000_19_div.png", 
+            "iter_00000_step_00000_26_div.png", 
+            "iter_00000_step_00000_24_div.png", 
+            "iter_00000_step_00000_7_div.png", 
+            "iter_00000_step_00000_4_div.png", 
+            "iter_00000_step_00000_25_div.png", 
+            "iter_00000_step_00000_9_div.png", 
+            "iter_00000_step_00000_8_div.png", 
+            "iter_00000_step_00000_29_img.png", 
+            "iter_00000_step_00000_14_a.png", 
+            "iter_00000_step_00000_2_div.png", 
+            "iter_00000_step_00000_22_a.png", 
+            "iter_00000_step_00000_17_div.png", 
+            "iter_00000_step_00000_3_div.png", 
+            "iter_00000_step_00000_20_div.png", 
+            "iter_00000_step_00000_6_div.png", 
+            "iter_00000_step_00000_0_div.png", 
+            "iter_00000_step_00000_30_a.png", 
+            "iter_00000_step_00000_32_div.png", 
+            "iter_00000_step_00000_27_a.png", 
+            "iter_00000_step_00000_5_a.png", 
+            "iter_00000_step_00000_16_div.png", 
+            "iter_00000_step_00000_12_div.png", 
+            "iter_00000_step_00000_11_a.png", 
+            "iter_00000_step_00000_23_div.png", 
+            "iter_00000_step_00000_28_a.png", 
+            "iter_00000_step_00000_1_a.png", 
+            "iter_00000_step_00000_13_div.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_div.png": [
+                "iter_00000_step_00000_0_div.png"
+            ], 
+            "iter_00000_step_00000_10_div.png": [
+                "iter_00000_step_00000_10_div.png"
+            ], 
+            "iter_00000_step_00000_11_a.png": [
+                "iter_00000_step_00000_11_a.png"
+            ], 
+            "iter_00000_step_00000_12_div.png": [
+                "iter_00000_step_00000_12_div.png"
+            ], 
+            "iter_00000_step_00000_13_div.png": [
+                "iter_00000_step_00000_13_div.png"
+            ], 
+            "iter_00000_step_00000_14_a.png": [
+                "iter_00000_step_00000_14_a.png"
+            ], 
+            "iter_00000_step_00000_15_div.png": [
+                "iter_00000_step_00000_15_div.png"
+            ], 
+            "iter_00000_step_00000_16_div.png": [
+                "iter_00000_step_00000_16_div.png"
+            ], 
+            "iter_00000_step_00000_17_div.png": [
+                "iter_00000_step_00000_17_div.png"
+            ], 
+            "iter_00000_step_00000_18_div.png": [
+                "iter_00000_step_00000_18_div.png"
+            ], 
+            "iter_00000_step_00000_19_div.png": [
+                "iter_00000_step_00000_19_div.png"
+            ], 
+            "iter_00000_step_00000_1_a.png": [
+                "iter_00000_step_00000_1_a.png"
+            ], 
+            "iter_00000_step_00000_20_div.png": [
+                "iter_00000_step_00000_20_div.png"
+            ], 
+            "iter_00000_step_00000_21_div.png": [
+                "iter_00000_step_00000_21_div.png"
+            ], 
+            "iter_00000_step_00000_22_a.png": [
+                "iter_00000_step_00000_22_a.png"
+            ], 
+            "iter_00000_step_00000_23_div.png": [
+                "iter_00000_step_00000_23_div.png"
+            ], 
+            "iter_00000_step_00000_24_div.png": [
+                "iter_00000_step_00000_24_div.png"
+            ], 
+            "iter_00000_step_00000_25_div.png": [
+                "iter_00000_step_00000_25_div.png"
+            ], 
+            "iter_00000_step_00000_26_div.png": [
+                "iter_00000_step_00000_26_div.png"
+            ], 
+            "iter_00000_step_00000_27_a.png": [
+                "iter_00000_step_00000_27_a.png"
+            ], 
+            "iter_00000_step_00000_28_a.png": [
+                "iter_00000_step_00000_28_a.png"
+            ], 
+            "iter_00000_step_00000_29_img.png": [
+                "iter_00000_step_00000_29_img.png"
+            ], 
+            "iter_00000_step_00000_2_div.png": [
+                "iter_00000_step_00000_2_div.png"
+            ], 
+            "iter_00000_step_00000_30_a.png": [
+                "iter_00000_step_00000_30_a.png"
+            ], 
+            "iter_00000_step_00000_31_div.png": [
+                "iter_00000_step_00000_31_div.png"
+            ], 
+            "iter_00000_step_00000_32_div.png": [
+                "iter_00000_step_00000_32_div.png"
+            ], 
+            "iter_00000_step_00000_3_div.png": [
+                "iter_00000_step_00000_3_div.png"
+            ], 
+            "iter_00000_step_00000_4_div.png": [
+                "iter_00000_step_00000_4_div.png"
+            ], 
+            "iter_00000_step_00000_5_a.png": [
+                "iter_00000_step_00000_5_a.png"
+            ], 
+            "iter_00000_step_00000_6_div.png": [
+                "iter_00000_step_00000_6_div.png"
+            ], 
+            "iter_00000_step_00000_7_div.png": [
+                "iter_00000_step_00000_7_div.png"
+            ], 
+            "iter_00000_step_00000_8_div.png": [
+                "iter_00000_step_00000_8_div.png"
+            ], 
+            "iter_00000_step_00000_9_div.png": [
+                "iter_00000_step_00000_9_div.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_div.png", 
+                "iter_00000_step_00000_1_a.png", 
+                "iter_00000_step_00000_2_div.png", 
+                "iter_00000_step_00000_3_div.png", 
+                "iter_00000_step_00000_4_div.png", 
+                "iter_00000_step_00000_5_a.png", 
+                "iter_00000_step_00000_6_div.png", 
+                "iter_00000_step_00000_7_div.png", 
+                "iter_00000_step_00000_8_div.png", 
+                "iter_00000_step_00000_9_div.png", 
+                "iter_00000_step_00000_10_div.png", 
+                "iter_00000_step_00000_11_a.png", 
+                "iter_00000_step_00000_12_div.png", 
+                "iter_00000_step_00000_13_div.png", 
+                "iter_00000_step_00000_14_a.png", 
+                "iter_00000_step_00000_15_div.png", 
+                "iter_00000_step_00000_16_div.png", 
+                "iter_00000_step_00000_17_div.png", 
+                "iter_00000_step_00000_18_div.png", 
+                "iter_00000_step_00000_19_div.png", 
+                "iter_00000_step_00000_20_div.png", 
+                "iter_00000_step_00000_21_div.png", 
+                "iter_00000_step_00000_22_a.png", 
+                "iter_00000_step_00000_23_div.png", 
+                "iter_00000_step_00000_24_div.png", 
+                "iter_00000_step_00000_25_div.png", 
+                "iter_00000_step_00000_26_div.png", 
+                "iter_00000_step_00000_27_a.png", 
+                "iter_00000_step_00000_28_a.png", 
+                "iter_00000_step_00000_29_img.png", 
+                "iter_00000_step_00000_30_a.png", 
+                "iter_00000_step_00000_31_div.png", 
+                "iter_00000_step_00000_32_div.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "a", 
+                    "div", 
+                    "img"
+                ], 
+                "text": [
+                    "industries", 
+                    "request_a_demo", 
+                    "product", 
+                    "product\n______\n________\n__________\n____________\n______________all_products\n____________\n__________\n__________\n________\n__________\n____________\n______________personal_edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______company\n______\n________\n__________\n____________\n______________about_us\n____________\n__________\n__________\n________\n__________\n____________\n______________team\n____________\n__________\n__________\n________\n__________\n____________\n______________news\n____________\n__________\n__________\n________\n__________\n____________\n______________resources\n____________\n__________\n__________\n________\n__________\n____________\n______________privacy_policy\n____________\n__________\n__________\n________\n__________\n____________\n______________website_terms\n____________\n__________\n__________\n________\n__________\n____________\n______________service_terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________contact\n______\n____\n__\n__\n__\n\n\n\n__________________\n________________\n______________\n____________\n____________\n__________\n________\n__________\n__________\n__________\n____________\n____________\n\n__________\n__________\n\n__________\n__________\n__________\n\n____________\n____________\n____________\n______________\n________________\n______________\n____________\n\n____________\n____________\n______________\n____________\n\n____________\n______________\n________________\n__________________request_a_demo\n________________\n______________\n____________\n\n__________\n__________\n________\n__________\n__________\n__________\n____________\n______________open_menu\n______________close_menu", 
+                    "", 
+                    "product\n______\n________\n__________\n____________\n______________all_products\n____________\n__________\n__________\n________\n__________\n____________\n______________personal_edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______company\n______\n________\n__________\n____________\n______________about_us\n____________\n__________\n__________\n________\n__________\n____________\n______________team\n____________\n__________\n__________\n________\n__________\n____________\n______________news\n____________\n__________\n__________\n________\n__________\n____________\n______________resources\n____________\n__________\n__________\n________\n__________\n____________\n______________privacy_policy\n____________\n__________\n__________\n________\n__________\n____________\n______________website_terms\n____________\n__________\n__________\n________\n__________\n____________\n______________service_terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________contact", 
+                    "company", 
+                    "skip_to_content\n____\n\n____\n______\n______\n\n______\n________\n\n________\n\n________\n\n________\n\n________\n________\n__________\n__________\n__________\n________\n__________\n__________\n__________\n____________\n\n____________\n\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n______________________\n________________________\n______________________\n____________________\n\n__________________\n__________________\n________________\n______________\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n\n\n__\n____\n______product\n______\n________\n__________\n____________\n______________all_products\n____________\n__________\n__________\n________\n__________\n____________\n______________personal_edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______company\n______\n________\n__________\n____________\n______________about_us\n____________\n__________\n__________\n________\n__________\n____________\n______________team\n____________\n__________\n__________\n________\n__________\n____________\n______________news\n____________\n__________\n__________\n________\n__________\n____________\n______________resources\n____________\n__________\n__________\n________\n__________\n____________\n______________privacy_policy\n____________\n__________\n__________\n________\n__________\n____________\n______________website_terms\n____________\n__________\n__________\n________\n__________\n____________\n______________service_terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________contact\n______\n____\n__\n__\n__\n\n\n\n__________________\n________________\n______________\n____________\n____________\n__________\n________\n__________\n__________\n__________\n____________\n____________\n\n__________\n__________\n\n__________\n__________\n__________\n\n____________\n____________\n____________\n______________\n________________\n______________\n____________\n\n____________\n____________\n______________\n____________\n\n____________\n______________\n________________\n__________________request_a_demo\n________________\n______________\n____________\n\n__________\n__________\n________\n__________\n__________\n__________\n____________\n______________open_menu\n______________close_menu\n______________\n________________\n__________________\n__________________\n__________________\n________________\n______________\n____________\n__________\n________\n________\n________\n________\n________\n________\n\n______\n______\n________\n__________\n____________\n__________\n__________\n________\n____________\n__________\n__________\n____________\n\n____________\n\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n______________________\n________________________\n______________________\n____________________\n\n__________________\n__________________\n________________\n______________\n____________\n______________\n______________\n______________\n________________\n__________________\n____________________\n\n\n__\n____\n______product\n______\n________\n__________\n____________\n______________all_products\n____________\n__________\n__________\n________\n__________\n____________\n______________personal_edition\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________industries\n______\n____\n__\n__\n__\n\n\n__\n____\n______company\n______\n________\n__________\n____________\n______________about_us\n____________\n__________\n__________\n________\n__________\n____________\n______________team\n____________\n__________\n__________\n________\n__________\n____________\n______________news\n____________\n__________\n__________\n________\n__________\n____________\n______________resources\n____________\n__________\n__________\n________\n__________\n____________\n______________privacy_policy\n____________\n__________\n__________\n________\n__________\n____________\n______________website_terms\n____________\n__________\n__________\n________\n__________\n____________\n______________service_terms\n____________\n__________\n__________\n________\n______\n____\n__\n__\n\n\n__\n____\n______\n________\n________events\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________careers\n______\n____\n__\n__\n__\n\n\n__\n____\n______\n________\n________contact\n______\n____\n__\n__\n__\n\n\n\n__________________\n________________\n______________\n____________\n____________\n__________\n________\n____________\n__________\n__________\n____________\n____________\n\n__________\n__________\n\n__________\n__________\n__________\n\n____________\n____________\n____________\n______________\n________________\n______________\n____________\n\n____________\n____________\n______________\n____________\n\n____________\n______________\n________________\n__________________request_a_demo\n________________\n______________\n____________\n\n__________\n__________\n________\n____________\n__________\n__________\n____________\n______________open_menu\n______________close_menu", 
+                    "company\n______\n________\n__________\n____________\n______________about_us\n____________\n__________\n__________\n________\n__________\n____________\n______________team\n____________\n__________\n__________\n________\n__________\n____________\n______________news\n____________\n__________\n__________\n________\n__________\n____________\n______________resources\n____________\n__________\n__________\n________\n__________\n____________\n______________privacy_policy\n____________\n__________\n__________\n________\n__________\n____________\n______________website_terms\n____________\n__________\n__________\n________\n__________\n____________\n______________service_terms", 
+                    "<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-l5bv31s6ma8fz8wrpu5f/ke17zwdgbtoddi8pdm48kezs2srs3exhkyyday7gxevzw-zppgdn4juwvcje1zvwquxwkmyexglnqgp0ivtjzamwli2zvywh8k3-s_4yszcp2ryti0hqtoaauohri8pirnhrwwbcpl09oh6fnu7qgogotlecrqox5zuiknwavkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>", 
+                    "go_beyond_legacy_software_test_automation_tools_with_test.aiai_provides_the_speed_that_qa_teams_need_to_keep_up_with_devops_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale.", 
+                    "contact", 
+                    "go_beyond_legacy_software_test_automation_tools_with_test.aiai_provides_the_speed_that_qa_teams_need_to_keep_up_with_devops_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale.\u00a0\u00a0\n\n\n\n\n\n\n\n\n__\n\n____\n__\n____\n\n______\n\n______\n________\n__________\n________\n________\n\n________\n__________\n____________\n__________\n____________<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-l5bv31s6ma8fz8wrpu5f/ke17zwdgbtoddi8pdm48kezs2srs3exhkyyday7gxevzw-zppgdn4juwvcje1zvwquxwkmyexglnqgp0ivtjzamwli2zvywh8k3-s_4yszcp2ryti0hqtoaauohri8pirnhrwwbcpl09oh6fnu7qgogotlecrqox5zuiknwavkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>", 
+                    "events", 
+                    "careers", 
+                    "product\n______\n________\n__________\n____________\n______________all_products\n____________\n__________\n__________\n________\n__________\n____________\n______________personal_edition"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}

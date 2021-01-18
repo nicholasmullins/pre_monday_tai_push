@@ -1,0 +1,39 @@
+{
+    "elems": {
+        "iter_00000_step_00021_0_a.png": [], 
+        "iter_00000_step_00021_5_a.png": [
+            "lnk_acct_exec_east"
+        ], 
+        "iter_00000_step_00026_21_a.png": [
+            "lnk_eeo_pdf"
+        ], 
+        "iter_00000_step_00026_3_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00028_0_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00028_20_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00028_26_img.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00028_28_a.png": [
+            "mnu_product"
+        ], 
+        "iter_00000_step_00028_32_a.png": [
+            "lnk_sales_op"
+        ], 
+        "iter_00000_step_00028_5_a.png": [
+            "lnk_acct_exec_cent"
+        ], 
+        "iter_00000_step_00028_9_a.png": [
+            "lnk_acct_exec_east"
+        ], 
+        "iter_00000_step_00033_1_a.png": [
+            "lnk_eeo_pdf"
+        ]
+    }, 
+    "screens": {}
+}

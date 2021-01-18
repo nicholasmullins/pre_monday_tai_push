@@ -1,0 +1,1352 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.TextView.png": "iter_00000_step_00000_0_android.widget.TextView.png", 
+            "iter_00000_step_00000_10_android.widget.TextView.png": "iter_00000_step_00000_10_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png": "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.Image.png": "iter_00000_step_00000_12_android.widget.Image.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png": "iter_00000_step_00000_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.widget.TextView.png": "iter_00000_step_00000_14_android.widget.TextView.png", 
+            "iter_00000_step_00000_15_android.widget.TextView.png": "iter_00000_step_00000_15_android.widget.TextView.png", 
+            "iter_00000_step_00000_16_android.widget.TextView.png": "iter_00000_step_00000_16_android.widget.TextView.png", 
+            "iter_00000_step_00000_1_android.widget.TextView.png": "iter_00000_step_00000_1_android.widget.TextView.png", 
+            "iter_00000_step_00000_2_android.widget.TextView.png": "iter_00000_step_00000_2_android.widget.TextView.png", 
+            "iter_00000_step_00000_3_android.widget.TextView.png": "iter_00000_step_00000_3_android.widget.TextView.png", 
+            "iter_00000_step_00000_4_android.widget.TextView.png": "iter_00000_step_00000_4_android.widget.TextView.png", 
+            "iter_00000_step_00000_5_android.widget.TextView.png": "iter_00000_step_00000_5_android.widget.TextView.png", 
+            "iter_00000_step_00000_6_android.widget.TextView.png": "iter_00000_step_00000_6_android.widget.TextView.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png": "iter_00000_step_00000_7_android.widget.TextView.png", 
+            "iter_00000_step_00000_8_android.widget.TextView.png": "iter_00000_step_00000_8_android.widget.TextView.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png": "iter_00000_step_00000_9_android.widget.TextView.png", 
+            "iter_00000_step_00001_0_android.widget.TextView.png": "iter_00000_step_00002_0_android.widget.TextView.png", 
+            "iter_00000_step_00001_10_android.widget.Image.png": "iter_00000_step_00002_10_android.widget.Image.png", 
+            "iter_00000_step_00001_11_android.widget.TextView.png": "iter_00000_step_00002_11_android.widget.TextView.png", 
+            "iter_00000_step_00001_12_android.widget.TextView.png": "iter_00000_step_00002_12_android.widget.TextView.png", 
+            "iter_00000_step_00001_13_android.widget.TextView.png": "iter_00000_step_00002_13_android.widget.TextView.png", 
+            "iter_00000_step_00001_14_android.widget.TextView.png": "iter_00000_step_00002_14_android.widget.TextView.png", 
+            "iter_00000_step_00001_15_android.widget.TextView.png": "iter_00000_step_00002_15_android.widget.TextView.png", 
+            "iter_00000_step_00001_16_android.widget.TextView.png": "iter_00000_step_00002_16_android.widget.TextView.png", 
+            "iter_00000_step_00001_17_android.widget.TextView.png": "iter_00000_step_00002_17_android.widget.TextView.png", 
+            "iter_00000_step_00001_18_android.widget.TextView.png": "iter_00000_step_00002_18_android.widget.TextView.png", 
+            "iter_00000_step_00001_1_android.widget.TextView.png": "iter_00000_step_00002_1_android.widget.TextView.png", 
+            "iter_00000_step_00001_2_android.widget.TextView.png": "iter_00000_step_00002_2_android.widget.TextView.png", 
+            "iter_00000_step_00001_3_android.widget.TextView.png": "iter_00000_step_00002_3_android.widget.TextView.png", 
+            "iter_00000_step_00001_4_android.widget.TextView.png": "iter_00000_step_00002_4_android.widget.TextView.png", 
+            "iter_00000_step_00001_5_android.widget.TextView.png": "iter_00000_step_00002_5_android.widget.TextView.png", 
+            "iter_00000_step_00001_6_android.widget.TextView.png": "iter_00000_step_00002_6_android.widget.TextView.png", 
+            "iter_00000_step_00001_7_android.widget.TextView.png": "iter_00000_step_00002_7_android.widget.TextView.png", 
+            "iter_00000_step_00001_8_android.widget.TextView.png": "iter_00000_step_00002_8_android.widget.TextView.png", 
+            "iter_00000_step_00001_9_android.widget.TextView.png": "iter_00000_step_00002_9_android.widget.TextView.png", 
+            "iter_00000_step_00002_0_android.widget.TextView.png": "iter_00000_step_00002_0_android.widget.TextView.png", 
+            "iter_00000_step_00002_10_android.widget.Image.png": "iter_00000_step_00002_10_android.widget.Image.png", 
+            "iter_00000_step_00002_11_android.widget.TextView.png": "iter_00000_step_00002_11_android.widget.TextView.png", 
+            "iter_00000_step_00002_12_android.widget.TextView.png": "iter_00000_step_00002_12_android.widget.TextView.png", 
+            "iter_00000_step_00002_13_android.widget.TextView.png": "iter_00000_step_00002_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_14_android.widget.TextView.png": "iter_00000_step_00002_14_android.widget.TextView.png", 
+            "iter_00000_step_00002_15_android.widget.TextView.png": "iter_00000_step_00002_15_android.widget.TextView.png", 
+            "iter_00000_step_00002_16_android.widget.TextView.png": "iter_00000_step_00002_16_android.widget.TextView.png", 
+            "iter_00000_step_00002_17_android.widget.TextView.png": "iter_00000_step_00002_17_android.widget.TextView.png", 
+            "iter_00000_step_00002_18_android.widget.TextView.png": "iter_00000_step_00002_18_android.widget.TextView.png", 
+            "iter_00000_step_00002_1_android.widget.TextView.png": "iter_00000_step_00002_1_android.widget.TextView.png", 
+            "iter_00000_step_00002_2_android.widget.TextView.png": "iter_00000_step_00002_2_android.widget.TextView.png", 
+            "iter_00000_step_00002_3_android.widget.TextView.png": "iter_00000_step_00002_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_4_android.widget.TextView.png": "iter_00000_step_00002_4_android.widget.TextView.png", 
+            "iter_00000_step_00002_5_android.widget.TextView.png": "iter_00000_step_00002_5_android.widget.TextView.png", 
+            "iter_00000_step_00002_6_android.widget.TextView.png": "iter_00000_step_00002_6_android.widget.TextView.png", 
+            "iter_00000_step_00002_7_android.widget.TextView.png": "iter_00000_step_00002_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_8_android.widget.TextView.png": "iter_00000_step_00002_8_android.widget.TextView.png", 
+            "iter_00000_step_00002_9_android.widget.TextView.png": "iter_00000_step_00002_9_android.widget.TextView.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "dJOCjdP+XHtB8C0UdSWX7Q==\n", 
+                    "height": 23, 
+                    "human_hash": "android.widget.TextView_X247_Y528_W466_H23", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with DevOps cycles and eliminates the need for tedious", 
+                    "width": 466, 
+                    "x": 247, 
+                    "y": 528
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_DevOps_cycles_and_eliminates_the_need_for_tedious"
+                ]
+            }, 
+            "iter_00000_step_00000_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "YvR1T+AlImxx6+1cLEYfSw==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X255_Y835_W105_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Testing", 
+                    "width": 105, 
+                    "x": 255, 
+                    "y": 835
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Testing"
+                ]
+            }, 
+            "iter_00000_step_00000_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "g5Tj77CUfn+Ms80WHSXRqA==\n", 
+                    "height": 20, 
+                    "human_hash": "android.widget.TextView_X248_Y590_W179_H20", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "problems with scale.", 
+                    "width": 179, 
+                    "x": 248, 
+                    "y": 590
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00000_12_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "/GUnxmKKoJv1id3u2KJOoA==\n", 
+                    "height": 44, 
+                    "human_hash": "android.widget.Image_X261_Y346_W415_H44", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 415, 
+                    "x": 261, 
+                    "y": 346
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "00hWYVZJfJ5ypivco/UnVQ==\n", 
+                    "height": 23, 
+                    "human_hash": "android.widget.TextView_X259_Y497_W430_H23", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI provides the speed that QA teams need to keep up", 
+                    "width": 430, 
+                    "x": 259, 
+                    "y": 497
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_provides_the_speed_that_QA_teams_need_to_keep_up"
+                ]
+            }, 
+            "iter_00000_step_00000_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "clO3dftL6T/+wvKvT+LSyQ==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X1256_Y366_W67_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "", 
+                    "width": 67, 
+                    "x": 1256, 
+                    "y": 366
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_15_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "GpmZ8EJecvv+wfupwglMMA==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X1121_Y68_W531_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "roduct Industries Company Events Careers Contact", 
+                    "width": 531, 
+                    "x": 1121, 
+                    "y": 68
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "roduct_Industries_Company_Events_Careers_Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "AP/wwHmHGHbNx5XLLggKsA==\n", 
+                    "height": 42, 
+                    "human_hash": "android.widget.TextView_X136_Y58_W147_H42", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "test.ai", 
+                    "width": 147, 
+                    "x": 136, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "test.ai"
+                ]
+            }, 
+            "iter_00000_step_00000_1_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "MFhZXQbkSz3LRrh+eklVyQ==\n", 
+                    "height": 57, 
+                    "human_hash": "android.widget.TextView_X253_Y229_W442_H57", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Go Beyond Legacy", 
+                    "width": 442, 
+                    "x": 253, 
+                    "y": 229
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy"
+                ]
+            }, 
+            "iter_00000_step_00000_2_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_2_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "WCiZWZ9KU9lE6XC8Cy4L8w==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X266_Y904_W388_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI-powered test automation tools help QA testers,", 
+                    "width": 388, 
+                    "x": 266, 
+                    "y": 904
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI-powered_test_automation_tools_help_QA_testers,"
+                ]
+            }, 
+            "iter_00000_step_00000_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "FP8/6xV0Lwict5PPt6T7tQ==\n", 
+                    "height": 19, 
+                    "human_hash": "android.widget.TextView_X1694_Y71_W134_H19", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Request a Demo", 
+                    "width": 134, 
+                    "x": 1694, 
+                    "y": 71
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Request_a_Demo"
+                ]
+            }, 
+            "iter_00000_step_00000_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "VUZ4iMzB5PhtPKn+CCZGpQ==\n", 
+                    "height": 52, 
+                    "human_hash": "android.widget.TextView_X250_Y286_W336_H52", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Software Test", 
+                    "width": 336, 
+                    "x": 250, 
+                    "y": 286
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Software_Test"
+                ]
+            }, 
+            "iter_00000_step_00000_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "3dQm30PmeMCygbo3aWWH9A==\n", 
+                    "height": 46, 
+                    "human_hash": "android.widget.TextView_X245_Y404_W284_H46", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with test.ai", 
+                    "width": 284, 
+                    "x": 245, 
+                    "y": 404
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_test.ai"
+                ]
+            }, 
+            "iter_00000_step_00000_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "5Sj/Fa3wZulvR8EWSM3F0A==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X258_Y799_W397_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Test.ai Transforms Software", 
+                    "width": 397, 
+                    "x": 258, 
+                    "y": 799
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Test.ai_Transforms_Software"
+                ]
+            }, 
+            "iter_00000_step_00000_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "ZLN06sge1M7ToOdwLWqDjw==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X259_Y935_W435_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "developers, and other teams meet their goals to release", 
+                    "width": 435, 
+                    "x": 259, 
+                    "y": 935
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "developers,_and_other_teams_meet_their_goals_to_release"
+                ]
+            }, 
+            "iter_00000_step_00000_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "F9wjc/a/eZnp7AXPMleveg==\n", 
+                    "height": 21, 
+                    "human_hash": "android.widget.TextView_X254_Y559_W375_H21", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "code creation, constant code maintenance, and", 
+                    "width": 375, 
+                    "x": 254, 
+                    "y": 559
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "code_creation,_constant_code_maintenance,_and"
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "oj2BF0TPhoPQ2BQVtsu54Q==\n", 
+                    "height": 77, 
+                    "human_hash": "android.widget.TextView_X1422_Y433_W94_H77", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "", 
+                    "width": 94, 
+                    "x": 1422, 
+                    "y": 433
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_0_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_0_android.widget.TextView.png", 
+                    "iter_00000_step_00001_0_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "9jvRpx6d4Mk9m2/ZPtoOmw==\n", 
+                    "height": 23, 
+                    "human_hash": "android.widget.TextView_X601_Y884_W667_H23", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "of age or older from discrimination based on age in hiring, promotion, discharge, pay, fringe benefits, jo", 
+                    "width": 667, 
+                    "x": 601, 
+                    "y": 884
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "of_age_or_older_from_discrimination_based_on_age_in_hiring,_promotion,_discharge,_pay,_fringe_benefits,_jo"
+                ]
+            }, 
+            "iter_00000_step_00002_10_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_10_android.widget.Image.png", 
+                    "iter_00000_step_00001_10_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "ikhuyZdUCN+dKmdP8MKlcg==\n", 
+                    "height": 317, 
+                    "human_hash": "android.widget.Image_X549_Y41_W814_H317", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 814, 
+                    "x": 549, 
+                    "y": 41
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_11_android.widget.TextView.png", 
+                    "iter_00000_step_00001_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Hh3XITvubQirMKIgcOtJqQ==\n", 
+                    "height": 24, 
+                    "human_hash": "android.widget.TextView_X596_Y799_W475_H24", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with a disability who is an applicant or employee, barring undue hardship", 
+                    "width": 475, 
+                    "x": 596, 
+                    "y": 799
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_a_disability_who_is_an_applicant_or_employee,_barring_undue_hardship"
+                ]
+            }, 
+            "iter_00000_step_00002_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_12_android.widget.TextView.png", 
+                    "iter_00000_step_00001_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "5da1qlpLsE7PokN3XFxd4w==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X602_Y723_W681_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "itle I and Title V of the Americans with Disabilities Act of 1990, as amended, protect qualified individuals", 
+                    "width": 681, 
+                    "x": 602, 
+                    "y": 723
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "itle_I_and_Title_V_of_the_Americans_with_Disabilities_Act_of_1990,_as_amended,_protect_qualified_individuals"
+                ]
+            }, 
+            "iter_00000_step_00002_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_13_android.widget.TextView.png", 
+                    "iter_00000_step_00001_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "9JNSt3nqfeGgK3tisOk0Dg==\n", 
+                    "height": 23, 
+                    "human_hash": "android.widget.TextView_X606_Y904_W424_H23", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "aining, classification, referral, and other aspects of employment.", 
+                    "width": 424, 
+                    "x": 606, 
+                    "y": 904
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "aining,_classification,_referral,_and_other_aspects_of_employment."
+                ]
+            }, 
+            "iter_00000_step_00002_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_14_android.widget.TextView.png", 
+                    "iter_00000_step_00001_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "m99auGxZrnkgg9Iz8hEIOA==\n", 
+                    "height": 21, 
+                    "human_hash": "android.widget.TextView_X642_Y473_W646_H21", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "pplicants to and employees of most private employers, state and local governments, educational", 
+                    "width": 646, 
+                    "x": 642, 
+                    "y": 473
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "pplicants_to_and_employees_of_most_private_employers,_state_and_local_governments,_educational"
+                ]
+            }, 
+            "iter_00000_step_00002_15_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_15_android.widget.TextView.png", 
+                    "iter_00000_step_00001_15_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "RN/hln2SdJdSCiwRWUYxEg==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X606_Y635_W663_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "iscrimination includes failing to reasonably accommodate an employee's religious practices where the", 
+                    "width": 663, 
+                    "x": 606, 
+                    "y": 635
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "iscrimination_includes_failing_to_reasonably_accommodate_an_employee's_religious_practices_where_the"
+                ]
+            }, 
+            "iter_00000_step_00002_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_16_android.widget.TextView.png", 
+                    "iter_00000_step_00001_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "7kTGE9wnkWiE8vF5+5PpEw==\n", 
+                    "height": 21, 
+                    "human_hash": "android.widget.TextView_X822_Y510_W269_H21", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "discrimination on the following bases:", 
+                    "width": 269, 
+                    "x": 822, 
+                    "y": 510
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "discrimination_on_the_following_bases:"
+                ]
+            }, 
+            "iter_00000_step_00002_17_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_17_android.widget.TextView.png", 
+                    "iter_00000_step_00001_17_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "55Z5d36B7UVdUY8/cwGijQ==\n", 
+                    "height": 21, 
+                    "human_hash": "android.widget.TextView_X616_Y598_W661_H21", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ng, promotion, discharge, pay, fringe benefits, job training, classification, referral, and other aspects o", 
+                    "width": 661, 
+                    "x": 616, 
+                    "y": 598
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ng,_promotion,_discharge,_pay,_fringe_benefits,_job_training,_classification,_referral,_and_other_aspects_o"
+                ]
+            }, 
+            "iter_00000_step_00002_18_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_18_android.widget.TextView.png", 
+                    "iter_00000_step_00001_18_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "oM8hjcNVXVVtnKsB73kUTg==\n", 
+                    "height": 20, 
+                    "human_hash": "android.widget.TextView_X589_Y694_W95_H20", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "DISABILITY", 
+                    "width": 95, 
+                    "x": 589, 
+                    "y": 694
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "DISABILITY"
+                ]
+            }, 
+            "iter_00000_step_00002_1_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_1_android.widget.TextView.png", 
+                    "iter_00000_step_00001_1_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "XVqj5yxhHrIkQFOxzozvqQ==\n", 
+                    "height": 23, 
+                    "human_hash": "android.widget.TextView_X599_Y548_W373_H23", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "RACE, COLOR, RELIGION, SEX, NATIONAL ORIGIN", 
+                    "width": 373, 
+                    "x": 599, 
+                    "y": 548
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "RACE,_COLOR,_RELIGION,_SEX,_NATIONAL_ORIGIN"
+                ]
+            }, 
+            "iter_00000_step_00002_2_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_2_android.widget.TextView.png", 
+                    "iter_00000_step_00001_2_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "vw2TVU3tVYaXYBfqwvJ8HA==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X590_Y655_W336_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "accommodation does not impose undue hardship.", 
+                    "width": 336, 
+                    "x": 590, 
+                    "y": 655
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "accommodation_does_not_impose_undue_hardship."
+                ]
+            }, 
+            "iter_00000_step_00002_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_3_android.widget.TextView.png", 
+                    "iter_00000_step_00001_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "B4MpSuvKJYwRASGPyItfzg==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X645_Y492_W637_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "stitutions, employment agencies and labor organizations are protected under Federal law from", 
+                    "width": 637, 
+                    "x": 645, 
+                    "y": 492
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "stitutions,_employment_agencies_and_labor_organizations_are_protected_under_Federal_law_from"
+                ]
+            }, 
+            "iter_00000_step_00002_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_4_android.widget.TextView.png", 
+                    "iter_00000_step_00001_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "ld2J71qQ5q0hsRgmDdvjzA==\n", 
+                    "height": 20, 
+                    "human_hash": "android.widget.TextView_X605_Y782_W692_H20", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "easonable accommodation to the known physical or mental limitations of an otherwise qualified individual", 
+                    "width": 692, 
+                    "x": 605, 
+                    "y": 782
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "easonable_accommodation_to_the_known_physical_or_mental_limitations_of_an_otherwise_qualified_individual"
+                ]
+            }, 
+            "iter_00000_step_00002_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_5_android.widget.TextView.png", 
+                    "iter_00000_step_00001_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Fck7haSlACh5uJpQuYNanw==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X601_Y866_W703_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "he Age Discrimination in Employment Act of 1967, as amended, protects applicants and employees 40 years", 
+                    "width": 703, 
+                    "x": 601, 
+                    "y": 866
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "he_Age_Discrimination_in_Employment_Act_of_1967,_as_amended,_protects_applicants_and_employees_40_years"
+                ]
+            }, 
+            "iter_00000_step_00002_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_6_android.widget.TextView.png", 
+                    "iter_00000_step_00001_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "1URZ7GOWPqrRvAmQuQxhNw==\n", 
+                    "height": 23, 
+                    "human_hash": "android.widget.TextView_X596_Y577_W711_H23", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Title VII of the Civil Rights Act of 1964, as amended, protects applicants and employees from discrimination in", 
+                    "width": 711, 
+                    "x": 596, 
+                    "y": 577
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Title_VII_of_the_Civil_Rights_Act_of_1964,_as_amended,_protects_applicants_and_employees_from_discrimination_in"
+                ]
+            }, 
+            "iter_00000_step_00002_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_7_android.widget.TextView.png", 
+                    "iter_00000_step_00001_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "qWaYfVvJOZ2Gw2WwtJzPGw==\n", 
+                    "height": 22, 
+                    "human_hash": "android.widget.TextView_X608_Y408_W684_H22", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Private Employers, State and Local Governments, Educational Institutions, Employment", 
+                    "width": 684, 
+                    "x": 608, 
+                    "y": 408
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Private_Employers,_State_and_Local_Governments,_Educational_Institutions,_Employment"
+                ]
+            }, 
+            "iter_00000_step_00002_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_8_android.widget.TextView.png", 
+                    "iter_00000_step_00001_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "vQHgoDsqdfiuRT2ElOj2LQ==\n", 
+                    "height": 25, 
+                    "human_hash": "android.widget.TextView_X812_Y429_W277_H25", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Agencies and Labor Organizations", 
+                    "width": 277, 
+                    "x": 812, 
+                    "y": 429
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Agencies_and_Labor_Organizations"
+                ]
+            }, 
+            "iter_00000_step_00002_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_9_android.widget.TextView.png", 
+                    "iter_00000_step_00001_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "y8Dep3bSbP+ZjNjs80u6Cg==\n", 
+                    "height": 24, 
+                    "human_hash": "android.widget.TextView_X598_Y616_W690_H24", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "employment, on the basis of race, color, religion, sex (including pregnancy), or national origin. Religious", 
+                    "width": 690, 
+                    "x": 598, 
+                    "y": 616
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "employment,_on_the_basis_of_race,_color,_religion,_sex_(including_pregnancy),_or_national_origin._Religious"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00002_10_android.widget.Image.png", 
+            "iter_00000_step_00000_1_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.Image.png", 
+            "iter_00000_step_00000_4_android.widget.TextView.png", 
+            "iter_00000_step_00002_9_android.widget.TextView.png", 
+            "iter_00000_step_00002_6_android.widget.TextView.png", 
+            "iter_00000_step_00002_5_android.widget.TextView.png", 
+            "iter_00000_step_00002_0_android.widget.TextView.png", 
+            "iter_00000_step_00002_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_12_android.widget.TextView.png", 
+            "iter_00000_step_00002_15_android.widget.TextView.png", 
+            "iter_00000_step_00002_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_17_android.widget.TextView.png", 
+            "iter_00000_step_00002_4_android.widget.TextView.png", 
+            "iter_00000_step_00000_15_android.widget.TextView.png", 
+            "iter_00000_step_00002_14_android.widget.TextView.png", 
+            "iter_00000_step_00000_5_android.widget.TextView.png", 
+            "iter_00000_step_00000_6_android.widget.TextView.png", 
+            "iter_00000_step_00002_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_0_android.widget.TextView.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_1_android.widget.TextView.png", 
+            "iter_00000_step_00000_2_android.widget.TextView.png", 
+            "iter_00000_step_00000_8_android.widget.TextView.png", 
+            "iter_00000_step_00002_2_android.widget.TextView.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png", 
+            "iter_00000_step_00002_8_android.widget.TextView.png", 
+            "iter_00000_step_00000_16_android.widget.TextView.png", 
+            "iter_00000_step_00002_16_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_10_android.widget.TextView.png", 
+            "iter_00000_step_00000_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_18_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.widget.TextView.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_android.widget.TextView.png": [
+                "iter_00000_step_00000_0_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_10_android.widget.TextView.png": [
+                "iter_00000_step_00000_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_11_android.widget.TextView.png": [
+                "iter_00000_step_00000_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_12_android.widget.Image.png": [
+                "iter_00000_step_00000_12_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_13_android.widget.TextView.png": [
+                "iter_00000_step_00000_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_14_android.widget.TextView.png": [
+                "iter_00000_step_00000_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_15_android.widget.TextView.png": [
+                "iter_00000_step_00000_15_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_16_android.widget.TextView.png": [
+                "iter_00000_step_00000_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_1_android.widget.TextView.png": [
+                "iter_00000_step_00000_1_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_2_android.widget.TextView.png": [
+                "iter_00000_step_00000_2_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_3_android.widget.TextView.png": [
+                "iter_00000_step_00000_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_4_android.widget.TextView.png": [
+                "iter_00000_step_00000_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_5_android.widget.TextView.png": [
+                "iter_00000_step_00000_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_6_android.widget.TextView.png": [
+                "iter_00000_step_00000_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_7_android.widget.TextView.png": [
+                "iter_00000_step_00000_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_8_android.widget.TextView.png": [
+                "iter_00000_step_00000_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_9_android.widget.TextView.png": [
+                "iter_00000_step_00000_9_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_0_android.widget.TextView.png": [
+                "iter_00000_step_00002_0_android.widget.TextView.png", 
+                "iter_00000_step_00001_0_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_10_android.widget.Image.png": [
+                "iter_00000_step_00002_10_android.widget.Image.png", 
+                "iter_00000_step_00001_10_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00002_11_android.widget.TextView.png": [
+                "iter_00000_step_00002_11_android.widget.TextView.png", 
+                "iter_00000_step_00001_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_12_android.widget.TextView.png": [
+                "iter_00000_step_00002_12_android.widget.TextView.png", 
+                "iter_00000_step_00001_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_13_android.widget.TextView.png": [
+                "iter_00000_step_00002_13_android.widget.TextView.png", 
+                "iter_00000_step_00001_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_14_android.widget.TextView.png": [
+                "iter_00000_step_00002_14_android.widget.TextView.png", 
+                "iter_00000_step_00001_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_15_android.widget.TextView.png": [
+                "iter_00000_step_00002_15_android.widget.TextView.png", 
+                "iter_00000_step_00001_15_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_16_android.widget.TextView.png": [
+                "iter_00000_step_00002_16_android.widget.TextView.png", 
+                "iter_00000_step_00001_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_17_android.widget.TextView.png": [
+                "iter_00000_step_00002_17_android.widget.TextView.png", 
+                "iter_00000_step_00001_17_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_18_android.widget.TextView.png": [
+                "iter_00000_step_00002_18_android.widget.TextView.png", 
+                "iter_00000_step_00001_18_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_1_android.widget.TextView.png": [
+                "iter_00000_step_00002_1_android.widget.TextView.png", 
+                "iter_00000_step_00001_1_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_2_android.widget.TextView.png": [
+                "iter_00000_step_00002_2_android.widget.TextView.png", 
+                "iter_00000_step_00001_2_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_3_android.widget.TextView.png": [
+                "iter_00000_step_00002_3_android.widget.TextView.png", 
+                "iter_00000_step_00001_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_4_android.widget.TextView.png": [
+                "iter_00000_step_00002_4_android.widget.TextView.png", 
+                "iter_00000_step_00001_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_5_android.widget.TextView.png": [
+                "iter_00000_step_00002_5_android.widget.TextView.png", 
+                "iter_00000_step_00001_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_6_android.widget.TextView.png": [
+                "iter_00000_step_00002_6_android.widget.TextView.png", 
+                "iter_00000_step_00001_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_7_android.widget.TextView.png": [
+                "iter_00000_step_00002_7_android.widget.TextView.png", 
+                "iter_00000_step_00001_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_8_android.widget.TextView.png": [
+                "iter_00000_step_00002_8_android.widget.TextView.png", 
+                "iter_00000_step_00001_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_9_android.widget.TextView.png": [
+                "iter_00000_step_00002_9_android.widget.TextView.png", 
+                "iter_00000_step_00001_9_android.widget.TextView.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00001_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_android.widget.TextView.png", 
+                "iter_00000_step_00000_1_android.widget.TextView.png", 
+                "iter_00000_step_00000_2_android.widget.TextView.png", 
+                "iter_00000_step_00000_3_android.widget.TextView.png", 
+                "iter_00000_step_00000_4_android.widget.TextView.png", 
+                "iter_00000_step_00000_5_android.widget.TextView.png", 
+                "iter_00000_step_00000_6_android.widget.TextView.png", 
+                "iter_00000_step_00000_7_android.widget.TextView.png", 
+                "iter_00000_step_00000_8_android.widget.TextView.png", 
+                "iter_00000_step_00000_9_android.widget.TextView.png", 
+                "iter_00000_step_00000_10_android.widget.TextView.png", 
+                "iter_00000_step_00000_11_android.widget.TextView.png", 
+                "iter_00000_step_00000_12_android.widget.Image.png", 
+                "iter_00000_step_00000_13_android.widget.TextView.png", 
+                "iter_00000_step_00000_14_android.widget.TextView.png", 
+                "iter_00000_step_00000_15_android.widget.TextView.png", 
+                "iter_00000_step_00000_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00002_0_android.widget.TextView.png", 
+                "iter_00000_step_00002_1_android.widget.TextView.png", 
+                "iter_00000_step_00002_2_android.widget.TextView.png", 
+                "iter_00000_step_00002_3_android.widget.TextView.png", 
+                "iter_00000_step_00002_4_android.widget.TextView.png", 
+                "iter_00000_step_00002_5_android.widget.TextView.png", 
+                "iter_00000_step_00002_6_android.widget.TextView.png", 
+                "iter_00000_step_00002_7_android.widget.TextView.png", 
+                "iter_00000_step_00002_8_android.widget.TextView.png", 
+                "iter_00000_step_00002_9_android.widget.TextView.png", 
+                "iter_00000_step_00002_10_android.widget.Image.png", 
+                "iter_00000_step_00002_11_android.widget.TextView.png", 
+                "iter_00000_step_00002_12_android.widget.TextView.png", 
+                "iter_00000_step_00002_13_android.widget.TextView.png", 
+                "iter_00000_step_00002_14_android.widget.TextView.png", 
+                "iter_00000_step_00002_15_android.widget.TextView.png", 
+                "iter_00000_step_00002_16_android.widget.TextView.png", 
+                "iter_00000_step_00002_17_android.widget.TextView.png", 
+                "iter_00000_step_00002_18_android.widget.TextView.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "", 
+                    "request_a_demo", 
+                    "test.ai", 
+                    "code_creation,_constant_code_maintenance,_and", 
+                    "test.ai_transforms_software", 
+                    "go_beyond_legacy", 
+                    "testing", 
+                    "problems_with_scale.", 
+                    "software_test", 
+                    "ai_provides_the_speed_that_qa_teams_need_to_keep_up", 
+                    "with_test.ai", 
+                    "developers,_and_other_teams_meet_their_goals_to_release", 
+                    "with_devops_cycles_and_eliminates_the_need_for_tedious", 
+                    "ai-powered_test_automation_tools_help_qa_testers,", 
+                    "roduct_industries_company_events_careers_contact"
+                ]
+            }, 
+            "iter_00000_step_00001_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00001_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "of_age_or_older_from_discrimination_based_on_age_in_hiring,_promotion,_discharge,_pay,_fringe_benefits,_jo", 
+                    "accommodation_does_not_impose_undue_hardship.", 
+                    "pplicants_to_and_employees_of_most_private_employers,_state_and_local_governments,_educational", 
+                    "stitutions,_employment_agencies_and_labor_organizations_are_protected_under_federal_law_from", 
+                    "race,_color,_religion,_sex,_national_origin", 
+                    "", 
+                    "easonable_accommodation_to_the_known_physical_or_mental_limitations_of_an_otherwise_qualified_individual", 
+                    "with_a_disability_who_is_an_applicant_or_employee,_barring_undue_hardship", 
+                    "employment,_on_the_basis_of_race,_color,_religion,_sex_(including_pregnancy),_or_national_origin._religious", 
+                    "private_employers,_state_and_local_governments,_educational_institutions,_employment", 
+                    "iscrimination_includes_failing_to_reasonably_accommodate_an_employee's_religious_practices_where_the", 
+                    "he_age_discrimination_in_employment_act_of_1967,_as_amended,_protects_applicants_and_employees_40_years", 
+                    "agencies_and_labor_organizations", 
+                    "itle_i_and_title_v_of_the_americans_with_disabilities_act_of_1990,_as_amended,_protect_qualified_individuals", 
+                    "aining,_classification,_referral,_and_other_aspects_of_employment.", 
+                    "ng,_promotion,_discharge,_pay,_fringe_benefits,_job_training,_classification,_referral,_and_other_aspects_o", 
+                    "title_vii_of_the_civil_rights_act_of_1964,_as_amended,_protects_applicants_and_employees_from_discrimination_in", 
+                    "disability", 
+                    "discrimination_on_the_following_bases:"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00001_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
+            ]
+        }
+    }
+}

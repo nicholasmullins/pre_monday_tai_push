@@ -1,0 +1,38 @@
+{
+    "elems": {
+        "iter_00000_step_00012_11_a.png": [
+            "mi_service_terms"
+        ], 
+        "iter_00000_step_00012_12_a.png": [
+            "mi_website_terms"
+        ], 
+        "iter_00000_step_00012_32_div.png": [
+            "mi_privacy_policy"
+        ], 
+        "iter_00000_step_00012_36_a.png": [
+            "mi_privacy_policy"
+        ], 
+        "iter_00000_step_00012_39_a.png": [
+            "mi_about_us"
+        ], 
+        "iter_00000_step_00014_23_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00019_14_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00019_21_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00019_22_a.png": [
+            "btn_demo"
+        ], 
+        "iter_00000_step_00019_27_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00019_28_a.png": [
+            "lnk_contact"
+        ]
+    }, 
+    "screens": {}
+}

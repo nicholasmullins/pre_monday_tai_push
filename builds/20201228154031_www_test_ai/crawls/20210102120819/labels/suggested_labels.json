@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00001_6_android.widget.TextView.png": {
+            "lnk_qfq": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.85
+                }, 
+                "score": 0.85, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

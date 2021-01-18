@@ -1,0 +1,32 @@
+{
+    "elems": {
+        "iter_00000_step_00034_28_a.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00039_11_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00039_13_a.png": [
+            "lnk_footer_contact"
+        ], 
+        "iter_00000_step_00039_18_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00039_23_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00039_26_div.png": [
+            "icn_footer_home"
+        ], 
+        "iter_00000_step_00039_28_svg.png": [
+            "icn_footer_linkedin"
+        ], 
+        "iter_00000_step_00039_35_div.png": [
+            "icn_footer_home"
+        ], 
+        "iter_00000_step_00039_6_a.png": [
+            "lnk_footer_team"
+        ]
+    }, 
+    "screens": {}
+}

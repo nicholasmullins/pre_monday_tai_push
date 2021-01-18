@@ -1,0 +1,32 @@
+{
+    "elems": {
+        "iter_00000_step_00003_22_a.png": [
+            "lnk_fitness_industry"
+        ], 
+        "iter_00000_step_00005_22_a.png": [
+            "lnk_fitness_industry"
+        ], 
+        "iter_00000_step_00009_3_a.png": [
+            "lnk_gaming"
+        ], 
+        "iter_00000_step_00010_3_a.png": [
+            "lnk_gaming"
+        ], 
+        "iter_00000_step_00012_10_a.png": [
+            "btn_demo_ap"
+        ], 
+        "iter_00000_step_00013_21_div.png": [
+            "btn_demo"
+        ], 
+        "iter_00000_step_00013_37_a.png": [
+            "mnu_product"
+        ], 
+        "iter_00000_step_00013_41_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00013_4_a.png": [
+            "lnk_industries"
+        ]
+    }, 
+    "screens": {}
+}

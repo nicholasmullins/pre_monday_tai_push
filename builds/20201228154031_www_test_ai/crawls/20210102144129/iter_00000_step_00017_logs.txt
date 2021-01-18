@@ -1,0 +1,1 @@
+[{u'level': u'SEVERE', u'message': u'https://www.eeoc.gov/favicon.ico - Failed to load resource: the server responded with a status of 404 ()', u'timestamp': 1609625738277L}]

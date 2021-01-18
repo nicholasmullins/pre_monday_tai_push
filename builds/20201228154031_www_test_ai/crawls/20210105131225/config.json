@@ -1,0 +1,16 @@
+{
+    "app_id": "www.test.ai", 
+    "effective_num_tests": 0, 
+    "eyes_api_key": null, 
+    "is_interactive": true, 
+    "is_noop": false, 
+    "is_test": false, 
+    "max_iterations": 1, 
+    "max_steps": 150, 
+    "num_iterations": 1, 
+    "package": null, 
+    "platform": "DESKTOP_CHROME", 
+    "rand_seed": 1609881140, 
+    "real_app_id": "www.test.ai", 
+    "test_wildcard": "*"
+}

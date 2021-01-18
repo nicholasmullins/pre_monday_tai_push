@@ -1,0 +1,14 @@
+{
+    "elems": {}, 
+    "screens": {
+        "iter_00000_step_00001_screenshot.png": {
+            "screen_eeo_pdf": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }
+}

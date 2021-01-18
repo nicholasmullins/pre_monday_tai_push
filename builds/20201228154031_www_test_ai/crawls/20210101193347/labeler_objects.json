@@ -1,0 +1,2695 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_a.png": "iter_00000_step_00000_0_a.png", 
+            "iter_00000_step_00000_10_div.png": "iter_00000_step_00003_10_div.png", 
+            "iter_00000_step_00000_11_a.png": "iter_00000_step_00000_11_a.png", 
+            "iter_00000_step_00000_12_div.png": "iter_00000_step_00003_12_div.png", 
+            "iter_00000_step_00000_13_div.png": "iter_00000_step_00003_13_div.png", 
+            "iter_00000_step_00000_14_div.png": "iter_00000_step_00003_14_div.png", 
+            "iter_00000_step_00000_15_div.png": "iter_00000_step_00003_15_div.png", 
+            "iter_00000_step_00000_16_div.png": "iter_00000_step_00000_16_div.png", 
+            "iter_00000_step_00000_17_a.png": "iter_00000_step_00000_17_a.png", 
+            "iter_00000_step_00000_18_button.png": "iter_00000_step_00003_18_button.png", 
+            "iter_00000_step_00000_19_img.png": "iter_00000_step_00000_19_img.png", 
+            "iter_00000_step_00000_1_div.png": "iter_00000_step_00003_1_div.png", 
+            "iter_00000_step_00000_20_div.png": "iter_00000_step_00000_20_div.png", 
+            "iter_00000_step_00000_21_a.png": "iter_00000_step_00000_21_a.png", 
+            "iter_00000_step_00000_22_img.png": "iter_00000_step_00003_22_img.png", 
+            "iter_00000_step_00000_23_div.png": "iter_00000_step_00003_23_div.png", 
+            "iter_00000_step_00000_24_div.png": "iter_00000_step_00000_24_div.png", 
+            "iter_00000_step_00000_25_li.png": "iter_00000_step_00000_25_li.png", 
+            "iter_00000_step_00000_26_li.png": "iter_00000_step_00000_26_li.png", 
+            "iter_00000_step_00000_27_a.png": "iter_00000_step_00000_27_a.png", 
+            "iter_00000_step_00000_28_div.png": "iter_00000_step_00003_28_div.png", 
+            "iter_00000_step_00000_29_div.png": "iter_00000_step_00003_29_div.png", 
+            "iter_00000_step_00000_2_a.png": "iter_00000_step_00003_2_a.png", 
+            "iter_00000_step_00000_30_span.png": "iter_00000_step_00003_30_span.png", 
+            "iter_00000_step_00000_31_a.png": "iter_00000_step_00003_31_a.png", 
+            "iter_00000_step_00000_32_div.png": "iter_00000_step_00003_32_div.png", 
+            "iter_00000_step_00000_33_div.png": "iter_00000_step_00003_33_div.png", 
+            "iter_00000_step_00000_34_div.png": "iter_00000_step_00000_34_div.png", 
+            "iter_00000_step_00000_35_li.png": "iter_00000_step_00000_35_li.png", 
+            "iter_00000_step_00000_36_a.png": "iter_00000_step_00003_36_a.png", 
+            "iter_00000_step_00000_37_li.png": "iter_00000_step_00000_37_li.png", 
+            "iter_00000_step_00000_38_li.png": "iter_00000_step_00000_38_li.png", 
+            "iter_00000_step_00000_39_img.png": "iter_00000_step_00003_39_img.png", 
+            "iter_00000_step_00000_3_li.png": "iter_00000_step_00000_3_li.png", 
+            "iter_00000_step_00000_40_div.png": "iter_00000_step_00003_40_div.png", 
+            "iter_00000_step_00000_41_button.png": "iter_00000_step_00003_41_button.png", 
+            "iter_00000_step_00000_42_img.png": "iter_00000_step_00003_42_img.png", 
+            "iter_00000_step_00000_43_a.png": "iter_00000_step_00003_43_a.png", 
+            "iter_00000_step_00000_44_div.png": "iter_00000_step_00000_44_div.png", 
+            "iter_00000_step_00000_45_div.png": "iter_00000_step_00003_45_div.png", 
+            "iter_00000_step_00000_4_a.png": "iter_00000_step_00003_4_a.png", 
+            "iter_00000_step_00000_5_a.png": "iter_00000_step_00000_5_a.png", 
+            "iter_00000_step_00000_6_img.png": "iter_00000_step_00003_6_img.png", 
+            "iter_00000_step_00000_7_div.png": "iter_00000_step_00003_7_div.png", 
+            "iter_00000_step_00000_8_a.png": "iter_00000_step_00000_8_a.png", 
+            "iter_00000_step_00000_9_div.png": "iter_00000_step_00000_9_div.png", 
+            "iter_00000_step_00001_0_div.png": "iter_00000_step_00003_23_div.png", 
+            "iter_00000_step_00001_10_button.png": "iter_00000_step_00003_18_button.png", 
+            "iter_00000_step_00001_11_div.png": "iter_00000_step_00002_11_div.png", 
+            "iter_00000_step_00001_12_div.png": "iter_00000_step_00003_45_div.png", 
+            "iter_00000_step_00001_13_div.png": "iter_00000_step_00002_13_div.png", 
+            "iter_00000_step_00001_1_div.png": "iter_00000_step_00001_1_div.png", 
+            "iter_00000_step_00001_2_div.png": "iter_00000_step_00002_2_div.png", 
+            "iter_00000_step_00001_3_a.png": "iter_00000_step_00002_3_a.png", 
+            "iter_00000_step_00001_4_img.png": "iter_00000_step_00002_4_img.png", 
+            "iter_00000_step_00001_5_div.png": "iter_00000_step_00002_5_div.png", 
+            "iter_00000_step_00001_6_div.png": "iter_00000_step_00003_29_div.png", 
+            "iter_00000_step_00001_7_div.png": "iter_00000_step_00003_32_div.png", 
+            "iter_00000_step_00001_8_span.png": "iter_00000_step_00002_8_span.png", 
+            "iter_00000_step_00001_9_button.png": "iter_00000_step_00003_41_button.png", 
+            "iter_00000_step_00002_0_div.png": "iter_00000_step_00003_23_div.png", 
+            "iter_00000_step_00002_10_button.png": "iter_00000_step_00003_18_button.png", 
+            "iter_00000_step_00002_11_div.png": "iter_00000_step_00002_11_div.png", 
+            "iter_00000_step_00002_12_div.png": "iter_00000_step_00003_45_div.png", 
+            "iter_00000_step_00002_13_div.png": "iter_00000_step_00002_13_div.png", 
+            "iter_00000_step_00002_1_div.png": "iter_00000_step_00002_1_div.png", 
+            "iter_00000_step_00002_2_div.png": "iter_00000_step_00002_2_div.png", 
+            "iter_00000_step_00002_3_a.png": "iter_00000_step_00002_3_a.png", 
+            "iter_00000_step_00002_4_img.png": "iter_00000_step_00002_4_img.png", 
+            "iter_00000_step_00002_5_div.png": "iter_00000_step_00002_5_div.png", 
+            "iter_00000_step_00002_6_div.png": "iter_00000_step_00003_29_div.png", 
+            "iter_00000_step_00002_7_div.png": "iter_00000_step_00003_32_div.png", 
+            "iter_00000_step_00002_8_span.png": "iter_00000_step_00002_8_span.png", 
+            "iter_00000_step_00002_9_button.png": "iter_00000_step_00003_41_button.png", 
+            "iter_00000_step_00003_0_a.png": "iter_00000_step_00003_0_a.png", 
+            "iter_00000_step_00003_10_div.png": "iter_00000_step_00003_10_div.png", 
+            "iter_00000_step_00003_11_a.png": "iter_00000_step_00003_11_a.png", 
+            "iter_00000_step_00003_12_div.png": "iter_00000_step_00003_12_div.png", 
+            "iter_00000_step_00003_13_div.png": "iter_00000_step_00003_13_div.png", 
+            "iter_00000_step_00003_14_div.png": "iter_00000_step_00003_14_div.png", 
+            "iter_00000_step_00003_15_div.png": "iter_00000_step_00003_15_div.png", 
+            "iter_00000_step_00003_16_div.png": "iter_00000_step_00003_16_div.png", 
+            "iter_00000_step_00003_17_a.png": "iter_00000_step_00003_17_a.png", 
+            "iter_00000_step_00003_18_button.png": "iter_00000_step_00003_18_button.png", 
+            "iter_00000_step_00003_19_img.png": "iter_00000_step_00003_19_img.png", 
+            "iter_00000_step_00003_1_div.png": "iter_00000_step_00003_1_div.png", 
+            "iter_00000_step_00003_20_div.png": "iter_00000_step_00003_20_div.png", 
+            "iter_00000_step_00003_21_a.png": "iter_00000_step_00003_21_a.png", 
+            "iter_00000_step_00003_22_img.png": "iter_00000_step_00003_22_img.png", 
+            "iter_00000_step_00003_23_div.png": "iter_00000_step_00003_23_div.png", 
+            "iter_00000_step_00003_24_div.png": "iter_00000_step_00003_24_div.png", 
+            "iter_00000_step_00003_25_li.png": "iter_00000_step_00003_25_li.png", 
+            "iter_00000_step_00003_26_li.png": "iter_00000_step_00003_26_li.png", 
+            "iter_00000_step_00003_27_a.png": "iter_00000_step_00003_27_a.png", 
+            "iter_00000_step_00003_28_div.png": "iter_00000_step_00003_28_div.png", 
+            "iter_00000_step_00003_29_div.png": "iter_00000_step_00003_29_div.png", 
+            "iter_00000_step_00003_2_a.png": "iter_00000_step_00003_2_a.png", 
+            "iter_00000_step_00003_30_span.png": "iter_00000_step_00003_30_span.png", 
+            "iter_00000_step_00003_31_a.png": "iter_00000_step_00003_31_a.png", 
+            "iter_00000_step_00003_32_div.png": "iter_00000_step_00003_32_div.png", 
+            "iter_00000_step_00003_33_div.png": "iter_00000_step_00003_33_div.png", 
+            "iter_00000_step_00003_34_div.png": "iter_00000_step_00003_34_div.png", 
+            "iter_00000_step_00003_35_li.png": "iter_00000_step_00003_35_li.png", 
+            "iter_00000_step_00003_36_a.png": "iter_00000_step_00003_36_a.png", 
+            "iter_00000_step_00003_37_li.png": "iter_00000_step_00003_37_li.png", 
+            "iter_00000_step_00003_38_li.png": "iter_00000_step_00003_38_li.png", 
+            "iter_00000_step_00003_39_img.png": "iter_00000_step_00003_39_img.png", 
+            "iter_00000_step_00003_3_li.png": "iter_00000_step_00003_3_li.png", 
+            "iter_00000_step_00003_40_div.png": "iter_00000_step_00003_40_div.png", 
+            "iter_00000_step_00003_41_button.png": "iter_00000_step_00003_41_button.png", 
+            "iter_00000_step_00003_42_img.png": "iter_00000_step_00003_42_img.png", 
+            "iter_00000_step_00003_43_a.png": "iter_00000_step_00003_43_a.png", 
+            "iter_00000_step_00003_44_div.png": "iter_00000_step_00003_44_div.png", 
+            "iter_00000_step_00003_45_div.png": "iter_00000_step_00003_45_div.png", 
+            "iter_00000_step_00003_4_a.png": "iter_00000_step_00003_4_a.png", 
+            "iter_00000_step_00003_5_a.png": "iter_00000_step_00003_5_a.png", 
+            "iter_00000_step_00003_6_img.png": "iter_00000_step_00003_6_img.png", 
+            "iter_00000_step_00003_7_div.png": "iter_00000_step_00003_7_div.png", 
+            "iter_00000_step_00003_8_a.png": "iter_00000_step_00003_8_a.png", 
+            "iter_00000_step_00003_9_div.png": "iter_00000_step_00003_9_div.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "un2KbtEVfSxJTt+OXL4D6g==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X997_Y122_W76_H50", 
+                    "tag_name": "a", 
+                    "text": "Expo", 
+                    "width": 76, 
+                    "x": 997, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Expo"
+                ]
+            }, 
+            "iter_00000_step_00000_11_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "9/VqdBg9aOzzalx3k1Ok0w==\n", 
+                    "height": 30, 
+                    "human_hash": "a_X1170_Y132_W114_H30", 
+                    "tag_name": "a", 
+                    "text": "Register", 
+                    "width": 114, 
+                    "x": 1170, 
+                    "y": 132
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Register"
+                ]
+            }, 
+            "iter_00000_step_00000_16_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "QEUlp4UrbM+y7CUUfX4dlw==\n", 
+                    "height": 147, 
+                    "human_hash": "div_X375_Y25_W1170_H147", 
+                    "tag_name": "div", 
+                    "text": "November 9\u201312, 2020 #AGILEDEVOPSCON\n          \n                   \n\n      \n\n      \n      \n      \n        Toggle navigation\n        \n        \n        \n      \n    \n\n          \n        \n                      Program Conference Schedule\nConference Schedule\nLive Virtual Training\nKeynotes\nTutorials\nConcurrent Sessions\nAgile + DevOps Leadership Summit\nDevSecOps Summit\nNetworking Events\nTips to Convince Your Boss\n\nSpeakers\nTraining\nExpo About the Expo\nBecome a Sponsor\nSponsors & Exhibitors\nIndustry Technical Presentations\n\nVenue\nCode of Conduct\nRegister", 
+                    "width": 1170, 
+                    "x": 375, 
+                    "y": 25
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "November_9\u201312,_2020_#AGILEDEVOPSCON\n__________\n___________________\n\n______\n\n______\n______\n______\n________Toggle_navigation\n________\n________\n________\n______\n____\n\n__________\n________\n______________________Program_Conference_Schedule\nConference_Schedule\nLive_Virtual_Training\nKeynotes\nTutorials\nConcurrent_Sessions\nAgile_+_DevOps_Leadership_Summit\nDevSecOps_Summit\nNetworking_Events\nTips_to_Convince_Your_Boss\n\nSpeakers\nTraining\nExpo_About_the_Expo\nBecome_a_Sponsor\nSponsors_&_Exhibitors\nIndustry_Technical_Presentations\n\nVenue\nCode_of_Conduct\nRegister"
+                ]
+            }, 
+            "iter_00000_step_00000_17_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_17_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "pxwLzXz6j/u99/NAOj8Z0Q==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X1077_Y122_W88_H50", 
+                    "tag_name": "a", 
+                    "text": "Venue", 
+                    "width": 88, 
+                    "x": 1077, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Venue"
+                ]
+            }, 
+            "iter_00000_step_00000_19_img.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_19_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "VT7GDAUsRNjjIAExlvmJow==\n", 
+                    "height": 72, 
+                    "human_hash": "img_X390_Y42_W229_H72", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 229, 
+                    "x": 390, 
+                    "y": 42
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_20_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "U9FUUfHmXET7Y6fzs7Yfqw==\n", 
+                    "height": 88, 
+                    "human_hash": "div_X375_Y34_W1170_H88", 
+                    "tag_name": "div", 
+                    "text": "November 9\u201312, 2020 #AGILEDEVOPSCON", 
+                    "width": 1170, 
+                    "x": 375, 
+                    "y": 34
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "November_9\u201312,_2020_#AGILEDEVOPSCON"
+                ]
+            }, 
+            "iter_00000_step_00000_21_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_21_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "x9licoR3b4NKqgeu0OO2Vg==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X878_Y122_W114_H50", 
+                    "tag_name": "a", 
+                    "text": "Training", 
+                    "width": 114, 
+                    "x": 878, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Training"
+                ]
+            }, 
+            "iter_00000_step_00000_24_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_24_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "9a/cowa+h4xK43vH3RB4ng==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X15_Y208_W1890_H298", 
+                    "tag_name": "div", 
+                    "text": "We're Going Fully Virtual!Accelerate Your Software Delivery with the Power of Agile + DevOps\n\n\n Already Registered?Click Here to Login & Start Watching", 
+                    "width": 1890, 
+                    "x": 15, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We're_Going_Fully_Virtual!Accelerate_Your_Software_Delivery_with_the_Power_of_Agile_+_DevOps\n\n\n_Already_Registered?Click_Here_to_Login_&_Start_Watching"
+                ]
+            }, 
+            "iter_00000_step_00000_25_li.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "5utSrGcGnlOPRczUzjlvuQ==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X636_Y122_W117_H50", 
+                    "tag_name": "li", 
+                    "text": "Program Conference Schedule\nConference Schedule\nLive Virtual Training\nKeynotes\nTutorials\nConcurrent Sessions\nAgile + DevOps Leadership Summit\nDevSecOps Summit\nNetworking Events\nTips to Convince Your Boss", 
+                    "width": 117, 
+                    "x": 636, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Program_Conference_Schedule\nConference_Schedule\nLive_Virtual_Training\nKeynotes\nTutorials\nConcurrent_Sessions\nAgile_+_DevOps_Leadership_Summit\nDevSecOps_Summit\nNetworking_Events\nTips_to_Convince_Your_Boss"
+                ]
+            }, 
+            "iter_00000_step_00000_26_li.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "Z+1k4G5FQmQCGSwFoAhkDg==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X997_Y122_W76_H50", 
+                    "tag_name": "li", 
+                    "text": "Expo About the Expo\nBecome a Sponsor\nSponsors & Exhibitors\nIndustry Technical Presentations", 
+                    "width": 76, 
+                    "x": 997, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Expo_About_the_Expo\nBecome_a_Sponsor\nSponsors_&_Exhibitors\nIndustry_Technical_Presentations"
+                ]
+            }, 
+            "iter_00000_step_00000_27_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_27_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "iX2outbrE28yxnJMH5GImg==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X758_Y122_W115_H50", 
+                    "tag_name": "a", 
+                    "text": "Speakers", 
+                    "width": 115, 
+                    "x": 758, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Speakers"
+                ]
+            }, 
+            "iter_00000_step_00000_34_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_34_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "xyTPcEj8EKPMLIBnFgvR2w==\n", 
+                    "height": 97, 
+                    "human_hash": "div_X390_Y25_W1140_H97", 
+                    "tag_name": "div", 
+                    "text": "November 9\u201312, 2020 #AGILEDEVOPSCON\n          \n                   \n\n      \n\n      \n      \n      \n        Toggle navigation", 
+                    "width": 1140, 
+                    "x": 390, 
+                    "y": 25
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "November_9\u201312,_2020_#AGILEDEVOPSCON\n__________\n___________________\n\n______\n\n______\n______\n______\n________Toggle_navigation"
+                ]
+            }, 
+            "iter_00000_step_00000_35_li.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_35_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "MyG5kJOzpoBEa9T/hRj95A==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X878_Y122_W114_H50", 
+                    "tag_name": "li", 
+                    "text": "Training", 
+                    "width": 114, 
+                    "x": 878, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Training"
+                ]
+            }, 
+            "iter_00000_step_00000_37_li.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_37_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "3951UO3hQCfLgigb9hzAOQ==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X1077_Y122_W88_H50", 
+                    "tag_name": "li", 
+                    "text": "Venue", 
+                    "width": 88, 
+                    "x": 1077, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Venue"
+                ]
+            }, 
+            "iter_00000_step_00000_38_li.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_38_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "OpirAQu66E1XQI+z3keFeQ==\n", 
+                    "height": 30, 
+                    "human_hash": "li_X1170_Y132_W114_H30", 
+                    "tag_name": "li", 
+                    "text": "Register", 
+                    "width": 114, 
+                    "x": 1170, 
+                    "y": 132
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Register"
+                ]
+            }, 
+            "iter_00000_step_00000_3_li.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "hlu1IerGAeF2BEmjixGpNQ==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X758_Y122_W115_H50", 
+                    "tag_name": "li", 
+                    "text": "Speakers", 
+                    "width": 115, 
+                    "x": 758, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Speakers"
+                ]
+            }, 
+            "iter_00000_step_00000_44_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_44_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "OQcgka4mTu+tC4kfcrzxNw==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X0_Y208_W1920_H298", 
+                    "tag_name": "div", 
+                    "text": "We're Going Fully Virtual!Accelerate Your Software Delivery with the Power of Agile + DevOps\n\n\n Already Registered?Click Here to Login & Start Watching", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We're_Going_Fully_Virtual!Accelerate_Your_Software_Delivery_with_the_Power_of_Agile_+_DevOps\n\n\n_Already_Registered?Click_Here_to_Login_&_Start_Watching"
+                ]
+            }, 
+            "iter_00000_step_00000_5_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "uGEvQ9+e1a60IrZXoB+QVg==\n", 
+                    "height": 72, 
+                    "human_hash": "a_X375_Y42_W585_H72", 
+                    "tag_name": "a", 
+                    "text": "", 
+                    "width": 585, 
+                    "x": 375, 
+                    "y": 42
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_8_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "xKAE/AL2IPaqoTOtVt9bCg==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X636_Y122_W117_H50", 
+                    "tag_name": "a", 
+                    "text": "Program", 
+                    "width": 117, 
+                    "x": 636, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Program"
+                ]
+            }, 
+            "iter_00000_step_00000_9_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "OQONois8U5/sUeBJ1ltTqw==\n", 
+                    "height": 1, 
+                    "human_hash": "div_X960_Y34_W585_H1", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 585, 
+                    "x": 960, 
+                    "y": 34
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_1_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_1_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "O5o84Ebff+pVIlrJAD5FLg==\n", 
+                    "height": 957, 
+                    "human_hash": "div_X0_Y0_W1920_H957", 
+                    "tag_name": "div", 
+                    "text": "Before You Go!\n        Don't Miss Special Offers and Program Updates Straight to Your Inbox (Opt-Out at Any Time)!\n        JOIN THE MAILING LIST", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Before_You_Go!\n________Don't_Miss_Special_Offers_and_Program_Updates_Straight_to_Your_Inbox_(Opt-Out_at_Any_Time)!\n________JOIN_THE_MAILING_LIST"
+                ]
+            }, 
+            "iter_00000_step_00002_11_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_11_div.png", 
+                    "iter_00000_step_00001_11_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "zdw9rec2Wy7XReHoH2y+Fg==\n", 
+                    "height": 245, 
+                    "human_hash": "div_X660_Y30_W600_H245", 
+                    "tag_name": "div", 
+                    "text": "Before You Go!\n        Don't Miss Special Offers and Program Updates Straight to Your Inbox (Opt-Out at Any Time)!\n        JOIN THE MAILING LIST", 
+                    "width": 600, 
+                    "x": 660, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Before_You_Go!\n________Don't_Miss_Special_Offers_and_Program_Updates_Straight_to_Your_Inbox_(Opt-Out_at_Any_Time)!\n________JOIN_THE_MAILING_LIST"
+                ]
+            }, 
+            "iter_00000_step_00002_13_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_13_div.png", 
+                    "iter_00000_step_00001_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "8Gj/3gGcUUhKlUC6bXTrRw==\n", 
+                    "height": 60, 
+                    "human_hash": "div_X660_Y30_W600_H60", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 600, 
+                    "x": 660, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_1_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_1_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "O5o84Ebff+pVIlrJAD5FLg==\n", 
+                    "height": 957, 
+                    "human_hash": "div_X0_Y0_W1920_H957", 
+                    "tag_name": "div", 
+                    "text": "Before You Go!\n        Don't Miss Special Offers and Program Updates Straight to Your Inbox (Opt-Out at Any Time)!\n        JOIN THE MAILING LIST", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Before_You_Go!\n________Don't_Miss_Special_Offers_and_Program_Updates_Straight_to_Your_Inbox_(Opt-Out_at_Any_Time)!\n________JOIN_THE_MAILING_LIST"
+                ]
+            }, 
+            "iter_00000_step_00002_2_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_2_div.png", 
+                    "iter_00000_step_00001_2_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "fxrkf6Kw6xA4Q7ez9JMatQ==\n", 
+                    "height": 185, 
+                    "human_hash": "div_X660_Y90_W600_H185", 
+                    "tag_name": "div", 
+                    "text": "Before You Go!\n        Don't Miss Special Offers and Program Updates Straight to Your Inbox (Opt-Out at Any Time)!\n        JOIN THE MAILING LIST", 
+                    "width": 600, 
+                    "x": 660, 
+                    "y": 90
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Before_You_Go!\n________Don't_Miss_Special_Offers_and_Program_Updates_Straight_to_Your_Inbox_(Opt-Out_at_Any_Time)!\n________JOIN_THE_MAILING_LIST"
+                ]
+            }, 
+            "iter_00000_step_00002_3_a.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_3_a.png", 
+                    "iter_00000_step_00001_3_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "Or4JbQcVVrU7CNbm6QJhWA==\n", 
+                    "height": 46, 
+                    "human_hash": "a_X844_Y204_W231_H46", 
+                    "tag_name": "a", 
+                    "text": "JOIN THE MAILING LIST", 
+                    "width": 231, 
+                    "x": 844, 
+                    "y": 204
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "JOIN_THE_MAILING_LIST"
+                ]
+            }, 
+            "iter_00000_step_00002_4_img.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_4_img.png", 
+                    "iter_00000_step_00001_4_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "5BvHRu1DeHrzWajeR/TEag==\n", 
+                    "height": 30, 
+                    "human_hash": "img_X837_Y45_W226_H30", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 226, 
+                    "x": 837, 
+                    "y": 45
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_5_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_5_div.png", 
+                    "iter_00000_step_00001_5_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "NLn4+zINEFYWIb3rQ1/ujg==\n", 
+                    "height": 53, 
+                    "human_hash": "div_X1639_Y904_W281_H53", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 281, 
+                    "x": 1639, 
+                    "y": 904
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_8_span.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_8_span.png", 
+                    "iter_00000_step_00001_8_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "MJQW59WcM3Tu8BTz5gZSQw==\n", 
+                    "height": 36, 
+                    "human_hash": "span_X1224_Y31_W36_H36", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 36, 
+                    "x": 1224, 
+                    "y": 31
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_0_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_0_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "un2KbtEVfSxJTt+OXL4D6g==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X997_Y122_W76_H50", 
+                    "tag_name": "a", 
+                    "text": "Expo", 
+                    "width": 76, 
+                    "x": 997, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Expo"
+                ]
+            }, 
+            "iter_00000_step_00003_10_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_10_div.png", 
+                    "iter_00000_step_00000_10_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "j+LpUhcl8k+A/6Vy/QlkXA==\n", 
+                    "height": 106, 
+                    "human_hash": "div_X1280_Y506_W640_H106", 
+                    "tag_name": "div", 
+                    "text": "Tips to Convince Your Boss", 
+                    "width": 640, 
+                    "x": 1280, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Tips_to_Convince_Your_Boss"
+                ]
+            }, 
+            "iter_00000_step_00003_11_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_11_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "9/VqdBg9aOzzalx3k1Ok0w==\n", 
+                    "height": 30, 
+                    "human_hash": "a_X1170_Y132_W114_H30", 
+                    "tag_name": "a", 
+                    "text": "Register", 
+                    "width": 114, 
+                    "x": 1170, 
+                    "y": 132
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Register"
+                ]
+            }, 
+            "iter_00000_step_00003_12_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_12_div.png", 
+                    "iter_00000_step_00000_12_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "1npgWMP/47KOvXAjiqPa3w==\n", 
+                    "height": 106, 
+                    "human_hash": "div_X0_Y506_W1920_H106", 
+                    "tag_name": "div", 
+                    "text": "Schedule\n\n\tWays to Save\n\n\tTips to Convince Your Boss", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Schedule\n\n\tWays_to_Save\n\n\tTips_to_Convince_Your_Boss"
+                ]
+            }, 
+            "iter_00000_step_00003_13_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_13_div.png", 
+                    "iter_00000_step_00000_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "mzt0V6A+zMJCWpwzlCOntA==\n", 
+                    "height": 208, 
+                    "human_hash": "div_X375_Y612_W1170_H208", 
+                    "tag_name": "div", 
+                    "text": "The Agile + DevOps Virtual Experience    \n    \n  \n  \n    \n\n\n\nIn light of recent events, TechWell has morphed the popular Agile + DevOps East conference into a fully virtual experience this year! From the comfort of your own digital device, you will have access to all of the same great content and experts you have come to expect from an Agile + DevOps East conference. Agile + DevOps Virtual will be streaming over 75 talks\u2014including 5 keynotes, 20+ tutorials, 40+ sessions, and 10+ Industry Technical Presentations all in an engaging and interactive premium virtual atmosphere. Plus, with 3 packages to choose from and a variety of exciting add-on options (such as a live virtual training class or the Agile Leadership Summit), you can select the conference package that fits your needs and your budget!", 
+                    "width": 1170, 
+                    "x": 375, 
+                    "y": 612
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "The_Agile_+_DevOps_Virtual_Experience____\n____\n__\n__\n____\n\n\n\nIn_light_of_recent_events,_TechWell_has_morphed_the_popular_Agile_+_DevOps_East_conference_into_a_fully_virtual_experience_this_year!_From_the_comfort_of_your_own_digital_device,_you_will_have_access_to_all_of_the_same_great_content_and_experts_you_have_come_to_expect_from_an_Agile_+_DevOps_East_conference._Agile_+_DevOps_Virtual_will_be_streaming_over_75_talks\u2014including_5_keynotes,_20+_tutorials,_40+_sessions,_and_10+_Industry_Technical_Presentations_all_in_an_engaging_and_interactive_premium_virtual_atmosphere._Plus,_with_3_packages_to_choose_from_and_a_variety_of_exciting_add-on_options_(such_as_a_live_virtual_training_class_or_the_Agile_Leadership_Summit),_you_can_select_the_conference_package_that_fits_your_needs_and_your_budget!"
+                ]
+            }, 
+            "iter_00000_step_00003_14_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_14_div.png", 
+                    "iter_00000_step_00000_14_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "sJSooVvvWjsLXTBVO5cQmA==\n", 
+                    "height": 25, 
+                    "human_hash": "div_X18_Y0_W607_H25", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 607, 
+                    "x": 18, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_15_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_15_div.png", 
+                    "iter_00000_step_00000_15_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "fseBPQtQ4nN8qck9vQc1Ig==\n", 
+                    "height": 106, 
+                    "human_hash": "div_X640_Y506_W640_H106", 
+                    "tag_name": "div", 
+                    "text": "Ways to Save", 
+                    "width": 640, 
+                    "x": 640, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Ways_to_Save"
+                ]
+            }, 
+            "iter_00000_step_00003_16_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "QEUlp4UrbM+y7CUUfX4dlw==\n", 
+                    "height": 147, 
+                    "human_hash": "div_X375_Y25_W1170_H147", 
+                    "tag_name": "div", 
+                    "text": "November 9\u201312, 2020 #AGILEDEVOPSCON\n          \n                   \n\n      \n\n      \n      \n      \n        Toggle navigation\n        \n        \n        \n      \n    \n\n          \n        \n                      Program Conference Schedule\nConference Schedule\nLive Virtual Training\nKeynotes\nTutorials\nConcurrent Sessions\nAgile + DevOps Leadership Summit\nDevSecOps Summit\nNetworking Events\nTips to Convince Your Boss\n\nSpeakers\nTraining\nExpo About the Expo\nBecome a Sponsor\nSponsors & Exhibitors\nIndustry Technical Presentations\n\nVenue\nCode of Conduct\nRegister", 
+                    "width": 1170, 
+                    "x": 375, 
+                    "y": 25
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "November_9\u201312,_2020_#AGILEDEVOPSCON\n__________\n___________________\n\n______\n\n______\n______\n______\n________Toggle_navigation\n________\n________\n________\n______\n____\n\n__________\n________\n______________________Program_Conference_Schedule\nConference_Schedule\nLive_Virtual_Training\nKeynotes\nTutorials\nConcurrent_Sessions\nAgile_+_DevOps_Leadership_Summit\nDevSecOps_Summit\nNetworking_Events\nTips_to_Convince_Your_Boss\n\nSpeakers\nTraining\nExpo_About_the_Expo\nBecome_a_Sponsor\nSponsors_&_Exhibitors\nIndustry_Technical_Presentations\n\nVenue\nCode_of_Conduct\nRegister"
+                ]
+            }, 
+            "iter_00000_step_00003_17_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_17_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "pxwLzXz6j/u99/NAOj8Z0Q==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X1077_Y122_W88_H50", 
+                    "tag_name": "a", 
+                    "text": "Venue", 
+                    "width": 88, 
+                    "x": 1077, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Venue"
+                ]
+            }, 
+            "iter_00000_step_00003_18_button.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_18_button.png", 
+                    "iter_00000_step_00002_10_button.png", 
+                    "iter_00000_step_00001_10_button.png", 
+                    "iter_00000_step_00000_18_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "mi8BfizsakQVTQWeO1ljZA==\n", 
+                    "height": 21, 
+                    "human_hash": "button_X1159_Y891_W57_H21", 
+                    "tag_name": "button", 
+                    "text": "Accept", 
+                    "width": 57, 
+                    "x": 1159, 
+                    "y": 891
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Accept"
+                ]
+            }, 
+            "iter_00000_step_00003_19_img.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_19_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "VT7GDAUsRNjjIAExlvmJow==\n", 
+                    "height": 72, 
+                    "human_hash": "img_X390_Y42_W229_H72", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 229, 
+                    "x": 390, 
+                    "y": 42
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_1_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_1_div.png", 
+                    "iter_00000_step_00000_1_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "cXylJxcg74Zw3wZU2z9oBA==\n", 
+                    "height": 25, 
+                    "human_hash": "div_X0_Y0_W1920_H25", 
+                    "tag_name": "div", 
+                    "text": "MORE CONFERENCES Agile + DevOps East\nAgile + DevOps West\nSTAREAST\nSTARWEST\nEPIC Experience\n\nTECHWELL LOGIN\nWelcome   My Account\n\n\n\n\n        \n          \n          \n          \n          \n          \n          \n          \n            \n          \n          \n          \n        \n          \n          Edit me.", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "MORE_CONFERENCES_Agile_+_DevOps_East\nAgile_+_DevOps_West\nSTAREAST\nSTARWEST\nEPIC_Experience\n\nTECHWELL_LOGIN\nWelcome___My_Account\n\n\n\n\n________\n__________\n__________\n__________\n__________\n__________\n__________\n__________\n____________\n__________\n__________\n__________\n________\n__________\n__________Edit_me."
+                ]
+            }, 
+            "iter_00000_step_00003_20_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_20_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "U9FUUfHmXET7Y6fzs7Yfqw==\n", 
+                    "height": 88, 
+                    "human_hash": "div_X375_Y34_W1170_H88", 
+                    "tag_name": "div", 
+                    "text": "November 9\u201312, 2020 #AGILEDEVOPSCON", 
+                    "width": 1170, 
+                    "x": 375, 
+                    "y": 34
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "November_9\u201312,_2020_#AGILEDEVOPSCON"
+                ]
+            }, 
+            "iter_00000_step_00003_21_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_21_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "x9licoR3b4NKqgeu0OO2Vg==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X878_Y122_W114_H50", 
+                    "tag_name": "a", 
+                    "text": "Training", 
+                    "width": 114, 
+                    "x": 878, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Training"
+                ]
+            }, 
+            "iter_00000_step_00003_22_img.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_22_img.png", 
+                    "iter_00000_step_00000_22_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "4Yt1sIgPMRi25K1rlo0xYg==\n", 
+                    "height": 19, 
+                    "human_hash": "img_X18_Y5_W145_H19", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 145, 
+                    "x": 18, 
+                    "y": 5
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_23_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_23_div.png", 
+                    "iter_00000_step_00002_0_div.png", 
+                    "iter_00000_step_00001_0_div.png", 
+                    "iter_00000_step_00000_23_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "KLdorvyp/UfgUpBIVFL8oA==\n", 
+                    "height": 22, 
+                    "human_hash": "div_X699_Y888_W455_H22", 
+                    "tag_name": "div", 
+                    "text": "We use cookies to ensure you get the best experience on our website.              Read More", 
+                    "width": 455, 
+                    "x": 699, 
+                    "y": 888
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________Read_More"
+                ]
+            }, 
+            "iter_00000_step_00003_24_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_24_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "9a/cowa+h4xK43vH3RB4ng==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X15_Y208_W1890_H298", 
+                    "tag_name": "div", 
+                    "text": "We're Going Fully Virtual!Accelerate Your Software Delivery with the Power of Agile + DevOps\n\n\n Already Registered?Click Here to Login & Start Watching", 
+                    "width": 1890, 
+                    "x": 15, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We're_Going_Fully_Virtual!Accelerate_Your_Software_Delivery_with_the_Power_of_Agile_+_DevOps\n\n\n_Already_Registered?Click_Here_to_Login_&_Start_Watching"
+                ]
+            }, 
+            "iter_00000_step_00003_25_li.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_25_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "5utSrGcGnlOPRczUzjlvuQ==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X636_Y122_W117_H50", 
+                    "tag_name": "li", 
+                    "text": "Program Conference Schedule\nConference Schedule\nLive Virtual Training\nKeynotes\nTutorials\nConcurrent Sessions\nAgile + DevOps Leadership Summit\nDevSecOps Summit\nNetworking Events\nTips to Convince Your Boss", 
+                    "width": 117, 
+                    "x": 636, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Program_Conference_Schedule\nConference_Schedule\nLive_Virtual_Training\nKeynotes\nTutorials\nConcurrent_Sessions\nAgile_+_DevOps_Leadership_Summit\nDevSecOps_Summit\nNetworking_Events\nTips_to_Convince_Your_Boss"
+                ]
+            }, 
+            "iter_00000_step_00003_26_li.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_26_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "Z+1k4G5FQmQCGSwFoAhkDg==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X997_Y122_W76_H50", 
+                    "tag_name": "li", 
+                    "text": "Expo About the Expo\nBecome a Sponsor\nSponsors & Exhibitors\nIndustry Technical Presentations", 
+                    "width": 76, 
+                    "x": 997, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Expo_About_the_Expo\nBecome_a_Sponsor\nSponsors_&_Exhibitors\nIndustry_Technical_Presentations"
+                ]
+            }, 
+            "iter_00000_step_00003_27_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_27_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "iX2outbrE28yxnJMH5GImg==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X758_Y122_W115_H50", 
+                    "tag_name": "a", 
+                    "text": "Speakers", 
+                    "width": 115, 
+                    "x": 758, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Speakers"
+                ]
+            }, 
+            "iter_00000_step_00003_28_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_28_div.png", 
+                    "iter_00000_step_00000_28_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "NLn4+zINEFYWIb3rQ1/ujg==\n", 
+                    "height": 53, 
+                    "human_hash": "div_X1639_Y904_W281_H53", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 281, 
+                    "x": 1639, 
+                    "y": 904
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_29_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_29_div.png", 
+                    "iter_00000_step_00002_6_div.png", 
+                    "iter_00000_step_00001_6_div.png", 
+                    "iter_00000_step_00000_29_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "t1+gKzfXlEKMyIQUlSoPuA==\n", 
+                    "height": 22, 
+                    "human_hash": "div_X1154_Y888_W67_H22", 
+                    "tag_name": "div", 
+                    "text": "Accept", 
+                    "width": 67, 
+                    "x": 1154, 
+                    "y": 888
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Accept"
+                ]
+            }, 
+            "iter_00000_step_00003_2_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_2_a.png", 
+                    "iter_00000_step_00000_2_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "qtV9PYqIpomC/AQe25Lzeg==\n", 
+                    "height": 106, 
+                    "human_hash": "a_X1280_Y506_W640_H106", 
+                    "tag_name": "a", 
+                    "text": "Tips to Convince Your Boss", 
+                    "width": 640, 
+                    "x": 1280, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Tips_to_Convince_Your_Boss"
+                ]
+            }, 
+            "iter_00000_step_00003_30_span.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_30_span.png", 
+                    "iter_00000_step_00000_30_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "uJw8NCZuufWnE1/sUvZt/w==\n", 
+                    "height": 4, 
+                    "human_hash": "span_X1727_Y13_W8_H4", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 8, 
+                    "x": 1727, 
+                    "y": 13
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_31_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_31_a.png", 
+                    "iter_00000_step_00000_31_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "lErCDnEvht2nPC77l5aQ1g==\n", 
+                    "height": 106, 
+                    "human_hash": "a_X0_Y506_W640_H106", 
+                    "tag_name": "a", 
+                    "text": "Schedule", 
+                    "width": 640, 
+                    "x": 0, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Schedule"
+                ]
+            }, 
+            "iter_00000_step_00003_32_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_32_div.png", 
+                    "iter_00000_step_00002_7_div.png", 
+                    "iter_00000_step_00001_7_div.png", 
+                    "iter_00000_step_00000_32_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "bOfeBGG7pl4ravgZDEDe0g==\n", 
+                    "height": 31, 
+                    "human_hash": "div_X5_Y886_W1910_H31", 
+                    "tag_name": "div", 
+                    "text": "We use cookies to ensure you get the best experience on our website.              Read More\n          \n    \n      Accept", 
+                    "width": 1910, 
+                    "x": 5, 
+                    "y": 886
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________Read_More\n__________\n____\n______Accept"
+                ]
+            }, 
+            "iter_00000_step_00003_33_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_33_div.png", 
+                    "iter_00000_step_00000_33_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "BP/qIDHmiUP2Wb55hqgPDA==\n", 
+                    "height": 150, 
+                    "human_hash": "div_X390_Y670_W1140_H150", 
+                    "tag_name": "div", 
+                    "text": "In light of recent events, TechWell has morphed the popular Agile + DevOps East conference into a fully virtual experience this year! From the comfort of your own digital device, you will have access to all of the same great content and experts you have come to expect from an Agile + DevOps East conference. Agile + DevOps Virtual will be streaming over 75 talks\u2014including 5 keynotes, 20+ tutorials, 40+ sessions, and 10+ Industry Technical Presentations all in an engaging and interactive premium virtual atmosphere. Plus, with 3 packages to choose from and a variety of exciting add-on options (such as a live virtual training class or the Agile Leadership Summit), you can select the conference package that fits your needs and your budget!", 
+                    "width": 1140, 
+                    "x": 390, 
+                    "y": 670
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "In_light_of_recent_events,_TechWell_has_morphed_the_popular_Agile_+_DevOps_East_conference_into_a_fully_virtual_experience_this_year!_From_the_comfort_of_your_own_digital_device,_you_will_have_access_to_all_of_the_same_great_content_and_experts_you_have_come_to_expect_from_an_Agile_+_DevOps_East_conference._Agile_+_DevOps_Virtual_will_be_streaming_over_75_talks\u2014including_5_keynotes,_20+_tutorials,_40+_sessions,_and_10+_Industry_Technical_Presentations_all_in_an_engaging_and_interactive_premium_virtual_atmosphere._Plus,_with_3_packages_to_choose_from_and_a_variety_of_exciting_add-on_options_(such_as_a_live_virtual_training_class_or_the_Agile_Leadership_Summit),_you_can_select_the_conference_package_that_fits_your_needs_and_your_budget!"
+                ]
+            }, 
+            "iter_00000_step_00003_34_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_34_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "xyTPcEj8EKPMLIBnFgvR2w==\n", 
+                    "height": 97, 
+                    "human_hash": "div_X390_Y25_W1140_H97", 
+                    "tag_name": "div", 
+                    "text": "November 9\u201312, 2020 #AGILEDEVOPSCON\n          \n                   \n\n      \n\n      \n      \n      \n        Toggle navigation", 
+                    "width": 1140, 
+                    "x": 390, 
+                    "y": 25
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "November_9\u201312,_2020_#AGILEDEVOPSCON\n__________\n___________________\n\n______\n\n______\n______\n______\n________Toggle_navigation"
+                ]
+            }, 
+            "iter_00000_step_00003_35_li.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_35_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "MyG5kJOzpoBEa9T/hRj95A==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X878_Y122_W114_H50", 
+                    "tag_name": "li", 
+                    "text": "Training", 
+                    "width": 114, 
+                    "x": 878, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Training"
+                ]
+            }, 
+            "iter_00000_step_00003_36_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_36_a.png", 
+                    "iter_00000_step_00000_36_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "DBKYvlP2aRG05JTtZkEPcw==\n", 
+                    "height": 106, 
+                    "human_hash": "a_X640_Y506_W640_H106", 
+                    "tag_name": "a", 
+                    "text": "Ways to Save", 
+                    "width": 640, 
+                    "x": 640, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Ways_to_Save"
+                ]
+            }, 
+            "iter_00000_step_00003_37_li.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_37_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "3951UO3hQCfLgigb9hzAOQ==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X1077_Y122_W88_H50", 
+                    "tag_name": "li", 
+                    "text": "Venue", 
+                    "width": 88, 
+                    "x": 1077, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Venue"
+                ]
+            }, 
+            "iter_00000_step_00003_38_li.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_38_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "OpirAQu66E1XQI+z3keFeQ==\n", 
+                    "height": 30, 
+                    "human_hash": "li_X1170_Y132_W114_H30", 
+                    "tag_name": "li", 
+                    "text": "Register", 
+                    "width": 114, 
+                    "x": 1170, 
+                    "y": 132
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Register"
+                ]
+            }, 
+            "iter_00000_step_00003_39_img.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_39_img.png", 
+                    "iter_00000_step_00000_39_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "FeLNIKKsn8gbGkmVFT/XsQ==\n", 
+                    "height": 35, 
+                    "human_hash": "img_X303_Y524_W35_H35", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 35, 
+                    "x": 303, 
+                    "y": 524
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_3_li.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_3_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "hlu1IerGAeF2BEmjixGpNQ==\n", 
+                    "height": 50, 
+                    "human_hash": "li_X758_Y122_W115_H50", 
+                    "tag_name": "li", 
+                    "text": "Speakers", 
+                    "width": 115, 
+                    "x": 758, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Speakers"
+                ]
+            }, 
+            "iter_00000_step_00003_40_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_40_div.png", 
+                    "iter_00000_step_00000_40_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "KKuJQs8ks5oZveCl0f9iJg==\n", 
+                    "height": 68, 
+                    "human_hash": "div_X716_Y384_W488_H68", 
+                    "tag_name": "div", 
+                    "text": "Already Registered?Click Here to Login & Start Watching", 
+                    "width": 488, 
+                    "x": 716, 
+                    "y": 384
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Already_Registered?Click_Here_to_Login_&_Start_Watching"
+                ]
+            }, 
+            "iter_00000_step_00003_41_button.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_41_button.png", 
+                    "iter_00000_step_00002_9_button.png", 
+                    "iter_00000_step_00001_9_button.png", 
+                    "iter_00000_step_00000_41_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "5XmcC6UBaTG0jLmOiHSwhA==\n", 
+                    "height": 21, 
+                    "human_hash": "button_X1068_Y891_W78_H21", 
+                    "tag_name": "button", 
+                    "text": "Read More", 
+                    "width": 78, 
+                    "x": 1068, 
+                    "y": 891
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Read_More"
+                ]
+            }, 
+            "iter_00000_step_00003_42_img.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_42_img.png", 
+                    "iter_00000_step_00000_42_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "KgjajRI4YUC6mmUPLKTJUg==\n", 
+                    "height": 35, 
+                    "human_hash": "img_X943_Y524_W35_H35", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 35, 
+                    "x": 943, 
+                    "y": 524
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_43_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_43_a.png", 
+                    "iter_00000_step_00000_43_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "OStpAycR4gX0jl6J4Qijnw==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X18_Y1_W145_H22", 
+                    "tag_name": "a", 
+                    "text": "", 
+                    "width": 145, 
+                    "x": 18, 
+                    "y": 1
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_44_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_44_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "OQcgka4mTu+tC4kfcrzxNw==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X0_Y208_W1920_H298", 
+                    "tag_name": "div", 
+                    "text": "We're Going Fully Virtual!Accelerate Your Software Delivery with the Power of Agile + DevOps\n\n\n Already Registered?Click Here to Login & Start Watching", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We're_Going_Fully_Virtual!Accelerate_Your_Software_Delivery_with_the_Power_of_Agile_+_DevOps\n\n\n_Already_Registered?Click_Here_to_Login_&_Start_Watching"
+                ]
+            }, 
+            "iter_00000_step_00003_45_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_45_div.png", 
+                    "iter_00000_step_00002_12_div.png", 
+                    "iter_00000_step_00001_12_div.png", 
+                    "iter_00000_step_00000_45_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "xXb+J0AdH1w0VQWhwPgJ8w==\n", 
+                    "height": 41, 
+                    "human_hash": "div_X0_Y881_W1920_H41", 
+                    "tag_name": "div", 
+                    "text": "We use cookies to ensure you get the best experience on our website.              Read More\n          \n    \n      Accept", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 881
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "We_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________Read_More\n__________\n____\n______Accept"
+                ]
+            }, 
+            "iter_00000_step_00003_4_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_4_a.png", 
+                    "iter_00000_step_00000_4_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "ymH2fqmpMxHRDHJ+H0sgBw==\n", 
+                    "height": 47, 
+                    "human_hash": "a_X743_Y394_W434_H47", 
+                    "tag_name": "a", 
+                    "text": "Already Registered?Click Here to Login & Start Watching", 
+                    "width": 434, 
+                    "x": 743, 
+                    "y": 394
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Already_Registered?Click_Here_to_Login_&_Start_Watching"
+                ]
+            }, 
+            "iter_00000_step_00003_5_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_5_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "uGEvQ9+e1a60IrZXoB+QVg==\n", 
+                    "height": 72, 
+                    "human_hash": "a_X375_Y42_W585_H72", 
+                    "tag_name": "a", 
+                    "text": "", 
+                    "width": 585, 
+                    "x": 375, 
+                    "y": 42
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_6_img.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_6_img.png", 
+                    "iter_00000_step_00000_6_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "daxSwh7EZgtx99VnlK1cyA==\n", 
+                    "height": 35, 
+                    "human_hash": "img_X1583_Y524_W35_H35", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 35, 
+                    "x": 1583, 
+                    "y": 524
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_7_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_7_div.png", 
+                    "iter_00000_step_00000_7_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "D5It1mughX5r4dx8BDnA7g==\n", 
+                    "height": 106, 
+                    "human_hash": "div_X0_Y506_W640_H106", 
+                    "tag_name": "div", 
+                    "text": "Schedule", 
+                    "width": 640, 
+                    "x": 0, 
+                    "y": 506
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Schedule"
+                ]
+            }, 
+            "iter_00000_step_00003_8_a.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_8_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "xKAE/AL2IPaqoTOtVt9bCg==\n", 
+                    "height": 50, 
+                    "human_hash": "a_X636_Y122_W117_H50", 
+                    "tag_name": "a", 
+                    "text": "Program", 
+                    "width": 117, 
+                    "x": 636, 
+                    "y": 122
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Program"
+                ]
+            }, 
+            "iter_00000_step_00003_9_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00003_9_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "OQONois8U5/sUeBJ1ltTqw==\n", 
+                    "height": 1, 
+                    "human_hash": "div_X960_Y34_W585_H1", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 585, 
+                    "x": 960, 
+                    "y": 34
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00002_1_div.png", 
+            "iter_00000_step_00001_1_div.png", 
+            "iter_00000_step_00000_44_div.png", 
+            "iter_00000_step_00003_44_div.png", 
+            "iter_00000_step_00000_24_div.png", 
+            "iter_00000_step_00003_24_div.png", 
+            "iter_00000_step_00003_13_div.png", 
+            "iter_00000_step_00003_12_div.png", 
+            "iter_00000_step_00003_16_div.png", 
+            "iter_00000_step_00000_16_div.png", 
+            "iter_00000_step_00003_33_div.png", 
+            "iter_00000_step_00002_11_div.png", 
+            "iter_00000_step_00002_2_div.png", 
+            "iter_00000_step_00000_34_div.png", 
+            "iter_00000_step_00003_34_div.png", 
+            "iter_00000_step_00000_20_div.png", 
+            "iter_00000_step_00003_20_div.png", 
+            "iter_00000_step_00003_45_div.png", 
+            "iter_00000_step_00003_2_a.png", 
+            "iter_00000_step_00003_10_div.png", 
+            "iter_00000_step_00003_31_a.png", 
+            "iter_00000_step_00003_15_div.png", 
+            "iter_00000_step_00003_7_div.png", 
+            "iter_00000_step_00003_36_a.png", 
+            "iter_00000_step_00003_32_div.png", 
+            "iter_00000_step_00003_1_div.png", 
+            "iter_00000_step_00000_5_a.png", 
+            "iter_00000_step_00003_5_a.png", 
+            "iter_00000_step_00002_13_div.png", 
+            "iter_00000_step_00003_40_div.png", 
+            "iter_00000_step_00003_4_a.png", 
+            "iter_00000_step_00003_19_img.png", 
+            "iter_00000_step_00000_19_img.png", 
+            "iter_00000_step_00003_14_div.png", 
+            "iter_00000_step_00003_28_div.png", 
+            "iter_00000_step_00002_5_div.png", 
+            "iter_00000_step_00002_3_a.png", 
+            "iter_00000_step_00003_23_div.png", 
+            "iter_00000_step_00002_4_img.png", 
+            "iter_00000_step_00000_25_li.png", 
+            "iter_00000_step_00003_8_a.png", 
+            "iter_00000_step_00003_25_li.png", 
+            "iter_00000_step_00000_8_a.png", 
+            "iter_00000_step_00003_27_a.png", 
+            "iter_00000_step_00000_3_li.png", 
+            "iter_00000_step_00000_27_a.png", 
+            "iter_00000_step_00003_3_li.png", 
+            "iter_00000_step_00000_21_a.png", 
+            "iter_00000_step_00000_35_li.png", 
+            "iter_00000_step_00003_35_li.png", 
+            "iter_00000_step_00003_21_a.png", 
+            "iter_00000_step_00003_37_li.png", 
+            "iter_00000_step_00003_17_a.png", 
+            "iter_00000_step_00000_37_li.png", 
+            "iter_00000_step_00000_17_a.png", 
+            "iter_00000_step_00003_26_li.png", 
+            "iter_00000_step_00003_0_a.png", 
+            "iter_00000_step_00000_0_a.png", 
+            "iter_00000_step_00000_26_li.png", 
+            "iter_00000_step_00000_38_li.png", 
+            "iter_00000_step_00003_11_a.png", 
+            "iter_00000_step_00003_38_li.png", 
+            "iter_00000_step_00000_11_a.png", 
+            "iter_00000_step_00003_43_a.png", 
+            "iter_00000_step_00003_22_img.png", 
+            "iter_00000_step_00003_41_button.png", 
+            "iter_00000_step_00003_29_div.png", 
+            "iter_00000_step_00002_8_span.png", 
+            "iter_00000_step_00003_6_img.png", 
+            "iter_00000_step_00003_39_img.png", 
+            "iter_00000_step_00003_42_img.png", 
+            "iter_00000_step_00003_18_button.png", 
+            "iter_00000_step_00000_9_div.png", 
+            "iter_00000_step_00003_9_div.png", 
+            "iter_00000_step_00003_30_span.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_a.png": [
+                "iter_00000_step_00000_0_a.png"
+            ], 
+            "iter_00000_step_00000_11_a.png": [
+                "iter_00000_step_00000_11_a.png"
+            ], 
+            "iter_00000_step_00000_16_div.png": [
+                "iter_00000_step_00000_16_div.png"
+            ], 
+            "iter_00000_step_00000_17_a.png": [
+                "iter_00000_step_00000_17_a.png"
+            ], 
+            "iter_00000_step_00000_19_img.png": [
+                "iter_00000_step_00000_19_img.png"
+            ], 
+            "iter_00000_step_00000_20_div.png": [
+                "iter_00000_step_00000_20_div.png"
+            ], 
+            "iter_00000_step_00000_21_a.png": [
+                "iter_00000_step_00000_21_a.png"
+            ], 
+            "iter_00000_step_00000_24_div.png": [
+                "iter_00000_step_00000_24_div.png"
+            ], 
+            "iter_00000_step_00000_25_li.png": [
+                "iter_00000_step_00000_25_li.png"
+            ], 
+            "iter_00000_step_00000_26_li.png": [
+                "iter_00000_step_00000_26_li.png"
+            ], 
+            "iter_00000_step_00000_27_a.png": [
+                "iter_00000_step_00000_27_a.png"
+            ], 
+            "iter_00000_step_00000_34_div.png": [
+                "iter_00000_step_00000_34_div.png"
+            ], 
+            "iter_00000_step_00000_35_li.png": [
+                "iter_00000_step_00000_35_li.png"
+            ], 
+            "iter_00000_step_00000_37_li.png": [
+                "iter_00000_step_00000_37_li.png"
+            ], 
+            "iter_00000_step_00000_38_li.png": [
+                "iter_00000_step_00000_38_li.png"
+            ], 
+            "iter_00000_step_00000_3_li.png": [
+                "iter_00000_step_00000_3_li.png"
+            ], 
+            "iter_00000_step_00000_44_div.png": [
+                "iter_00000_step_00000_44_div.png"
+            ], 
+            "iter_00000_step_00000_5_a.png": [
+                "iter_00000_step_00000_5_a.png"
+            ], 
+            "iter_00000_step_00000_8_a.png": [
+                "iter_00000_step_00000_8_a.png"
+            ], 
+            "iter_00000_step_00000_9_div.png": [
+                "iter_00000_step_00000_9_div.png"
+            ], 
+            "iter_00000_step_00001_1_div.png": [
+                "iter_00000_step_00001_1_div.png"
+            ], 
+            "iter_00000_step_00002_11_div.png": [
+                "iter_00000_step_00002_11_div.png", 
+                "iter_00000_step_00001_11_div.png"
+            ], 
+            "iter_00000_step_00002_13_div.png": [
+                "iter_00000_step_00002_13_div.png", 
+                "iter_00000_step_00001_13_div.png"
+            ], 
+            "iter_00000_step_00002_1_div.png": [
+                "iter_00000_step_00002_1_div.png"
+            ], 
+            "iter_00000_step_00002_2_div.png": [
+                "iter_00000_step_00002_2_div.png", 
+                "iter_00000_step_00001_2_div.png"
+            ], 
+            "iter_00000_step_00002_3_a.png": [
+                "iter_00000_step_00002_3_a.png", 
+                "iter_00000_step_00001_3_a.png"
+            ], 
+            "iter_00000_step_00002_4_img.png": [
+                "iter_00000_step_00002_4_img.png", 
+                "iter_00000_step_00001_4_img.png"
+            ], 
+            "iter_00000_step_00002_5_div.png": [
+                "iter_00000_step_00002_5_div.png", 
+                "iter_00000_step_00001_5_div.png"
+            ], 
+            "iter_00000_step_00002_8_span.png": [
+                "iter_00000_step_00002_8_span.png", 
+                "iter_00000_step_00001_8_span.png"
+            ], 
+            "iter_00000_step_00003_0_a.png": [
+                "iter_00000_step_00003_0_a.png"
+            ], 
+            "iter_00000_step_00003_10_div.png": [
+                "iter_00000_step_00003_10_div.png", 
+                "iter_00000_step_00000_10_div.png"
+            ], 
+            "iter_00000_step_00003_11_a.png": [
+                "iter_00000_step_00003_11_a.png"
+            ], 
+            "iter_00000_step_00003_12_div.png": [
+                "iter_00000_step_00003_12_div.png", 
+                "iter_00000_step_00000_12_div.png"
+            ], 
+            "iter_00000_step_00003_13_div.png": [
+                "iter_00000_step_00003_13_div.png", 
+                "iter_00000_step_00000_13_div.png"
+            ], 
+            "iter_00000_step_00003_14_div.png": [
+                "iter_00000_step_00003_14_div.png", 
+                "iter_00000_step_00000_14_div.png"
+            ], 
+            "iter_00000_step_00003_15_div.png": [
+                "iter_00000_step_00003_15_div.png", 
+                "iter_00000_step_00000_15_div.png"
+            ], 
+            "iter_00000_step_00003_16_div.png": [
+                "iter_00000_step_00003_16_div.png"
+            ], 
+            "iter_00000_step_00003_17_a.png": [
+                "iter_00000_step_00003_17_a.png"
+            ], 
+            "iter_00000_step_00003_18_button.png": [
+                "iter_00000_step_00003_18_button.png", 
+                "iter_00000_step_00002_10_button.png", 
+                "iter_00000_step_00001_10_button.png", 
+                "iter_00000_step_00000_18_button.png"
+            ], 
+            "iter_00000_step_00003_19_img.png": [
+                "iter_00000_step_00003_19_img.png"
+            ], 
+            "iter_00000_step_00003_1_div.png": [
+                "iter_00000_step_00003_1_div.png", 
+                "iter_00000_step_00000_1_div.png"
+            ], 
+            "iter_00000_step_00003_20_div.png": [
+                "iter_00000_step_00003_20_div.png"
+            ], 
+            "iter_00000_step_00003_21_a.png": [
+                "iter_00000_step_00003_21_a.png"
+            ], 
+            "iter_00000_step_00003_22_img.png": [
+                "iter_00000_step_00003_22_img.png", 
+                "iter_00000_step_00000_22_img.png"
+            ], 
+            "iter_00000_step_00003_23_div.png": [
+                "iter_00000_step_00003_23_div.png", 
+                "iter_00000_step_00002_0_div.png", 
+                "iter_00000_step_00001_0_div.png", 
+                "iter_00000_step_00000_23_div.png"
+            ], 
+            "iter_00000_step_00003_24_div.png": [
+                "iter_00000_step_00003_24_div.png"
+            ], 
+            "iter_00000_step_00003_25_li.png": [
+                "iter_00000_step_00003_25_li.png"
+            ], 
+            "iter_00000_step_00003_26_li.png": [
+                "iter_00000_step_00003_26_li.png"
+            ], 
+            "iter_00000_step_00003_27_a.png": [
+                "iter_00000_step_00003_27_a.png"
+            ], 
+            "iter_00000_step_00003_28_div.png": [
+                "iter_00000_step_00003_28_div.png", 
+                "iter_00000_step_00000_28_div.png"
+            ], 
+            "iter_00000_step_00003_29_div.png": [
+                "iter_00000_step_00003_29_div.png", 
+                "iter_00000_step_00002_6_div.png", 
+                "iter_00000_step_00001_6_div.png", 
+                "iter_00000_step_00000_29_div.png"
+            ], 
+            "iter_00000_step_00003_2_a.png": [
+                "iter_00000_step_00003_2_a.png", 
+                "iter_00000_step_00000_2_a.png"
+            ], 
+            "iter_00000_step_00003_30_span.png": [
+                "iter_00000_step_00003_30_span.png", 
+                "iter_00000_step_00000_30_span.png"
+            ], 
+            "iter_00000_step_00003_31_a.png": [
+                "iter_00000_step_00003_31_a.png", 
+                "iter_00000_step_00000_31_a.png"
+            ], 
+            "iter_00000_step_00003_32_div.png": [
+                "iter_00000_step_00003_32_div.png", 
+                "iter_00000_step_00002_7_div.png", 
+                "iter_00000_step_00001_7_div.png", 
+                "iter_00000_step_00000_32_div.png"
+            ], 
+            "iter_00000_step_00003_33_div.png": [
+                "iter_00000_step_00003_33_div.png", 
+                "iter_00000_step_00000_33_div.png"
+            ], 
+            "iter_00000_step_00003_34_div.png": [
+                "iter_00000_step_00003_34_div.png"
+            ], 
+            "iter_00000_step_00003_35_li.png": [
+                "iter_00000_step_00003_35_li.png"
+            ], 
+            "iter_00000_step_00003_36_a.png": [
+                "iter_00000_step_00003_36_a.png", 
+                "iter_00000_step_00000_36_a.png"
+            ], 
+            "iter_00000_step_00003_37_li.png": [
+                "iter_00000_step_00003_37_li.png"
+            ], 
+            "iter_00000_step_00003_38_li.png": [
+                "iter_00000_step_00003_38_li.png"
+            ], 
+            "iter_00000_step_00003_39_img.png": [
+                "iter_00000_step_00003_39_img.png", 
+                "iter_00000_step_00000_39_img.png"
+            ], 
+            "iter_00000_step_00003_3_li.png": [
+                "iter_00000_step_00003_3_li.png"
+            ], 
+            "iter_00000_step_00003_40_div.png": [
+                "iter_00000_step_00003_40_div.png", 
+                "iter_00000_step_00000_40_div.png"
+            ], 
+            "iter_00000_step_00003_41_button.png": [
+                "iter_00000_step_00003_41_button.png", 
+                "iter_00000_step_00002_9_button.png", 
+                "iter_00000_step_00001_9_button.png", 
+                "iter_00000_step_00000_41_button.png"
+            ], 
+            "iter_00000_step_00003_42_img.png": [
+                "iter_00000_step_00003_42_img.png", 
+                "iter_00000_step_00000_42_img.png"
+            ], 
+            "iter_00000_step_00003_43_a.png": [
+                "iter_00000_step_00003_43_a.png", 
+                "iter_00000_step_00000_43_a.png"
+            ], 
+            "iter_00000_step_00003_44_div.png": [
+                "iter_00000_step_00003_44_div.png"
+            ], 
+            "iter_00000_step_00003_45_div.png": [
+                "iter_00000_step_00003_45_div.png", 
+                "iter_00000_step_00002_12_div.png", 
+                "iter_00000_step_00001_12_div.png", 
+                "iter_00000_step_00000_45_div.png"
+            ], 
+            "iter_00000_step_00003_4_a.png": [
+                "iter_00000_step_00003_4_a.png", 
+                "iter_00000_step_00000_4_a.png"
+            ], 
+            "iter_00000_step_00003_5_a.png": [
+                "iter_00000_step_00003_5_a.png"
+            ], 
+            "iter_00000_step_00003_6_img.png": [
+                "iter_00000_step_00003_6_img.png", 
+                "iter_00000_step_00000_6_img.png"
+            ], 
+            "iter_00000_step_00003_7_div.png": [
+                "iter_00000_step_00003_7_div.png", 
+                "iter_00000_step_00000_7_div.png"
+            ], 
+            "iter_00000_step_00003_8_a.png": [
+                "iter_00000_step_00003_8_a.png"
+            ], 
+            "iter_00000_step_00003_9_div.png": [
+                "iter_00000_step_00003_9_div.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00002_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_a.png", 
+                "iter_00000_step_00003_1_div.png", 
+                "iter_00000_step_00003_2_a.png", 
+                "iter_00000_step_00000_3_li.png", 
+                "iter_00000_step_00003_4_a.png", 
+                "iter_00000_step_00000_5_a.png", 
+                "iter_00000_step_00003_6_img.png", 
+                "iter_00000_step_00003_7_div.png", 
+                "iter_00000_step_00000_8_a.png", 
+                "iter_00000_step_00000_9_div.png", 
+                "iter_00000_step_00003_10_div.png", 
+                "iter_00000_step_00000_11_a.png", 
+                "iter_00000_step_00003_12_div.png", 
+                "iter_00000_step_00003_13_div.png", 
+                "iter_00000_step_00003_14_div.png", 
+                "iter_00000_step_00003_15_div.png", 
+                "iter_00000_step_00000_16_div.png", 
+                "iter_00000_step_00000_17_a.png", 
+                "iter_00000_step_00003_18_button.png", 
+                "iter_00000_step_00000_19_img.png", 
+                "iter_00000_step_00000_20_div.png", 
+                "iter_00000_step_00000_21_a.png", 
+                "iter_00000_step_00003_22_img.png", 
+                "iter_00000_step_00003_23_div.png", 
+                "iter_00000_step_00000_24_div.png", 
+                "iter_00000_step_00000_25_li.png", 
+                "iter_00000_step_00000_26_li.png", 
+                "iter_00000_step_00000_27_a.png", 
+                "iter_00000_step_00003_28_div.png", 
+                "iter_00000_step_00003_29_div.png", 
+                "iter_00000_step_00003_30_span.png", 
+                "iter_00000_step_00003_31_a.png", 
+                "iter_00000_step_00003_32_div.png", 
+                "iter_00000_step_00003_33_div.png", 
+                "iter_00000_step_00000_34_div.png", 
+                "iter_00000_step_00000_35_li.png", 
+                "iter_00000_step_00003_36_a.png", 
+                "iter_00000_step_00000_37_li.png", 
+                "iter_00000_step_00000_38_li.png", 
+                "iter_00000_step_00003_39_img.png", 
+                "iter_00000_step_00003_40_div.png", 
+                "iter_00000_step_00003_41_button.png", 
+                "iter_00000_step_00003_42_img.png", 
+                "iter_00000_step_00003_43_a.png", 
+                "iter_00000_step_00000_44_div.png", 
+                "iter_00000_step_00003_45_div.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00003_23_div.png", 
+                "iter_00000_step_00001_1_div.png", 
+                "iter_00000_step_00002_2_div.png", 
+                "iter_00000_step_00002_3_a.png", 
+                "iter_00000_step_00002_4_img.png", 
+                "iter_00000_step_00002_5_div.png", 
+                "iter_00000_step_00003_29_div.png", 
+                "iter_00000_step_00003_32_div.png", 
+                "iter_00000_step_00002_8_span.png", 
+                "iter_00000_step_00003_41_button.png", 
+                "iter_00000_step_00003_18_button.png", 
+                "iter_00000_step_00002_11_div.png", 
+                "iter_00000_step_00003_45_div.png", 
+                "iter_00000_step_00002_13_div.png"
+            ], 
+            "iter_00000_step_00002_screenshot.png": [
+                "iter_00000_step_00003_23_div.png", 
+                "iter_00000_step_00002_1_div.png", 
+                "iter_00000_step_00002_2_div.png", 
+                "iter_00000_step_00002_3_a.png", 
+                "iter_00000_step_00002_4_img.png", 
+                "iter_00000_step_00002_5_div.png", 
+                "iter_00000_step_00003_29_div.png", 
+                "iter_00000_step_00003_32_div.png", 
+                "iter_00000_step_00002_8_span.png", 
+                "iter_00000_step_00003_41_button.png", 
+                "iter_00000_step_00003_18_button.png", 
+                "iter_00000_step_00002_11_div.png", 
+                "iter_00000_step_00003_45_div.png", 
+                "iter_00000_step_00002_13_div.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_0_a.png", 
+                "iter_00000_step_00003_1_div.png", 
+                "iter_00000_step_00003_2_a.png", 
+                "iter_00000_step_00003_3_li.png", 
+                "iter_00000_step_00003_4_a.png", 
+                "iter_00000_step_00003_5_a.png", 
+                "iter_00000_step_00003_6_img.png", 
+                "iter_00000_step_00003_7_div.png", 
+                "iter_00000_step_00003_8_a.png", 
+                "iter_00000_step_00003_9_div.png", 
+                "iter_00000_step_00003_10_div.png", 
+                "iter_00000_step_00003_11_a.png", 
+                "iter_00000_step_00003_12_div.png", 
+                "iter_00000_step_00003_13_div.png", 
+                "iter_00000_step_00003_14_div.png", 
+                "iter_00000_step_00003_15_div.png", 
+                "iter_00000_step_00003_16_div.png", 
+                "iter_00000_step_00003_17_a.png", 
+                "iter_00000_step_00003_18_button.png", 
+                "iter_00000_step_00003_19_img.png", 
+                "iter_00000_step_00003_20_div.png", 
+                "iter_00000_step_00003_21_a.png", 
+                "iter_00000_step_00003_22_img.png", 
+                "iter_00000_step_00003_23_div.png", 
+                "iter_00000_step_00003_24_div.png", 
+                "iter_00000_step_00003_25_li.png", 
+                "iter_00000_step_00003_26_li.png", 
+                "iter_00000_step_00003_27_a.png", 
+                "iter_00000_step_00003_28_div.png", 
+                "iter_00000_step_00003_29_div.png", 
+                "iter_00000_step_00003_30_span.png", 
+                "iter_00000_step_00003_31_a.png", 
+                "iter_00000_step_00003_32_div.png", 
+                "iter_00000_step_00003_33_div.png", 
+                "iter_00000_step_00003_34_div.png", 
+                "iter_00000_step_00003_35_li.png", 
+                "iter_00000_step_00003_36_a.png", 
+                "iter_00000_step_00003_37_li.png", 
+                "iter_00000_step_00003_38_li.png", 
+                "iter_00000_step_00003_39_img.png", 
+                "iter_00000_step_00003_40_div.png", 
+                "iter_00000_step_00003_41_button.png", 
+                "iter_00000_step_00003_42_img.png", 
+                "iter_00000_step_00003_43_a.png", 
+                "iter_00000_step_00003_44_div.png", 
+                "iter_00000_step_00003_45_div.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "button", 
+                    "li", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "we're_going_fully_virtual!accelerate_your_software_delivery_with_the_power_of_agile_+_devops\n\n\n_already_registered?click_here_to_login_&_start_watching", 
+                    "schedule\n\n\tways_to_save\n\n\ttips_to_convince_your_boss", 
+                    "ways_to_save", 
+                    "accept", 
+                    "november_9\u201312,_2020_#agiledevopscon\n__________\n___________________\n\n______\n\n______\n______\n______\n________toggle_navigation", 
+                    "speakers", 
+                    "read_more", 
+                    "tips_to_convince_your_boss", 
+                    "already_registered?click_here_to_login_&_start_watching", 
+                    "program", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more\n__________\n____\n______accept", 
+                    "in_light_of_recent_events,_techwell_has_morphed_the_popular_agile_+_devops_east_conference_into_a_fully_virtual_experience_this_year!_from_the_comfort_of_your_own_digital_device,_you_will_have_access_to_all_of_the_same_great_content_and_experts_you_have_come_to_expect_from_an_agile_+_devops_east_conference._agile_+_devops_virtual_will_be_streaming_over_75_talks\u2014including_5_keynotes,_20+_tutorials,_40+_sessions,_and_10+_industry_technical_presentations_all_in_an_engaging_and_interactive_premium_virtual_atmosphere._plus,_with_3_packages_to_choose_from_and_a_variety_of_exciting_add-on_options_(such_as_a_live_virtual_training_class_or_the_agile_leadership_summit),_you_can_select_the_conference_package_that_fits_your_needs_and_your_budget!", 
+                    "schedule", 
+                    "expo_about_the_expo\nbecome_a_sponsor\nsponsors_&_exhibitors\nindustry_technical_presentations", 
+                    "program_conference_schedule\nconference_schedule\nlive_virtual_training\nkeynotes\ntutorials\nconcurrent_sessions\nagile_+_devops_leadership_summit\ndevsecops_summit\nnetworking_events\ntips_to_convince_your_boss", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more", 
+                    "training", 
+                    "november_9\u201312,_2020_#agiledevopscon\n__________\n___________________\n\n______\n\n______\n______\n______\n________toggle_navigation\n________\n________\n________\n______\n____\n\n__________\n________\n______________________program_conference_schedule\nconference_schedule\nlive_virtual_training\nkeynotes\ntutorials\nconcurrent_sessions\nagile_+_devops_leadership_summit\ndevsecops_summit\nnetworking_events\ntips_to_convince_your_boss\n\nspeakers\ntraining\nexpo_about_the_expo\nbecome_a_sponsor\nsponsors_&_exhibitors\nindustry_technical_presentations\n\nvenue\ncode_of_conduct\nregister", 
+                    "register", 
+                    "venue", 
+                    "expo", 
+                    "the_agile_+_devops_virtual_experience____\n____\n__\n__\n____\n\n\n\nin_light_of_recent_events,_techwell_has_morphed_the_popular_agile_+_devops_east_conference_into_a_fully_virtual_experience_this_year!_from_the_comfort_of_your_own_digital_device,_you_will_have_access_to_all_of_the_same_great_content_and_experts_you_have_come_to_expect_from_an_agile_+_devops_east_conference._agile_+_devops_virtual_will_be_streaming_over_75_talks\u2014including_5_keynotes,_20+_tutorials,_40+_sessions,_and_10+_industry_technical_presentations_all_in_an_engaging_and_interactive_premium_virtual_atmosphere._plus,_with_3_packages_to_choose_from_and_a_variety_of_exciting_add-on_options_(such_as_a_live_virtual_training_class_or_the_agile_leadership_summit),_you_can_select_the_conference_package_that_fits_your_needs_and_your_budget!", 
+                    "november_9\u201312,_2020_#agiledevopscon", 
+                    "more_conferences_agile_+_devops_east\nagile_+_devops_west\nstareast\nstarwest\nepic_experience\n\ntechwell_login\nwelcome___my_account\n\n\n\n\n________\n__________\n__________\n__________\n__________\n__________\n__________\n__________\n____________\n__________\n__________\n__________\n________\n__________\n__________edit_me."
+                ]
+            }, 
+            "iter_00000_step_00001_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00001_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "button", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "read_more", 
+                    "accept", 
+                    "join_the_mailing_list", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more\n__________\n____\n______accept", 
+                    "before_you_go!\n________don't_miss_special_offers_and_program_updates_straight_to_your_inbox_(opt-out_at_any_time)!\n________join_the_mailing_list", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more"
+                ]
+            }, 
+            "iter_00000_step_00002_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "button", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "read_more", 
+                    "accept", 
+                    "join_the_mailing_list", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more\n__________\n____\n______accept", 
+                    "before_you_go!\n________don't_miss_special_offers_and_program_updates_straight_to_your_inbox_(opt-out_at_any_time)!\n________join_the_mailing_list", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more"
+                ]
+            }, 
+            "iter_00000_step_00003_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00003_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "button", 
+                    "li", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "we're_going_fully_virtual!accelerate_your_software_delivery_with_the_power_of_agile_+_devops\n\n\n_already_registered?click_here_to_login_&_start_watching", 
+                    "schedule\n\n\tways_to_save\n\n\ttips_to_convince_your_boss", 
+                    "ways_to_save", 
+                    "accept", 
+                    "november_9\u201312,_2020_#agiledevopscon\n__________\n___________________\n\n______\n\n______\n______\n______\n________toggle_navigation", 
+                    "speakers", 
+                    "read_more", 
+                    "tips_to_convince_your_boss", 
+                    "already_registered?click_here_to_login_&_start_watching", 
+                    "program", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more\n__________\n____\n______accept", 
+                    "in_light_of_recent_events,_techwell_has_morphed_the_popular_agile_+_devops_east_conference_into_a_fully_virtual_experience_this_year!_from_the_comfort_of_your_own_digital_device,_you_will_have_access_to_all_of_the_same_great_content_and_experts_you_have_come_to_expect_from_an_agile_+_devops_east_conference._agile_+_devops_virtual_will_be_streaming_over_75_talks\u2014including_5_keynotes,_20+_tutorials,_40+_sessions,_and_10+_industry_technical_presentations_all_in_an_engaging_and_interactive_premium_virtual_atmosphere._plus,_with_3_packages_to_choose_from_and_a_variety_of_exciting_add-on_options_(such_as_a_live_virtual_training_class_or_the_agile_leadership_summit),_you_can_select_the_conference_package_that_fits_your_needs_and_your_budget!", 
+                    "schedule", 
+                    "expo_about_the_expo\nbecome_a_sponsor\nsponsors_&_exhibitors\nindustry_technical_presentations", 
+                    "program_conference_schedule\nconference_schedule\nlive_virtual_training\nkeynotes\ntutorials\nconcurrent_sessions\nagile_+_devops_leadership_summit\ndevsecops_summit\nnetworking_events\ntips_to_convince_your_boss", 
+                    "we_use_cookies_to_ensure_you_get_the_best_experience_on_our_website.______________read_more", 
+                    "training", 
+                    "november_9\u201312,_2020_#agiledevopscon\n__________\n___________________\n\n______\n\n______\n______\n______\n________toggle_navigation\n________\n________\n________\n______\n____\n\n__________\n________\n______________________program_conference_schedule\nconference_schedule\nlive_virtual_training\nkeynotes\ntutorials\nconcurrent_sessions\nagile_+_devops_leadership_summit\ndevsecops_summit\nnetworking_events\ntips_to_convince_your_boss\n\nspeakers\ntraining\nexpo_about_the_expo\nbecome_a_sponsor\nsponsors_&_exhibitors\nindustry_technical_presentations\n\nvenue\ncode_of_conduct\nregister", 
+                    "register", 
+                    "venue", 
+                    "expo", 
+                    "the_agile_+_devops_virtual_experience____\n____\n__\n__\n____\n\n\n\nin_light_of_recent_events,_techwell_has_morphed_the_popular_agile_+_devops_east_conference_into_a_fully_virtual_experience_this_year!_from_the_comfort_of_your_own_digital_device,_you_will_have_access_to_all_of_the_same_great_content_and_experts_you_have_come_to_expect_from_an_agile_+_devops_east_conference._agile_+_devops_virtual_will_be_streaming_over_75_talks\u2014including_5_keynotes,_20+_tutorials,_40+_sessions,_and_10+_industry_technical_presentations_all_in_an_engaging_and_interactive_premium_virtual_atmosphere._plus,_with_3_packages_to_choose_from_and_a_variety_of_exciting_add-on_options_(such_as_a_live_virtual_training_class_or_the_agile_leadership_summit),_you_can_select_the_conference_package_that_fits_your_needs_and_your_budget!", 
+                    "november_9\u201312,_2020_#agiledevopscon", 
+                    "more_conferences_agile_+_devops_east\nagile_+_devops_west\nstareast\nstarwest\nepic_experience\n\ntechwell_login\nwelcome___my_account\n\n\n\n\n________\n__________\n__________\n__________\n__________\n__________\n__________\n__________\n____________\n__________\n__________\n__________\n________\n__________\n__________edit_me."
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00001_screenshot.png"
+            ], 
+            "iter_00000_step_00002_screenshot.png": [
+                "iter_00000_step_00002_screenshot.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_screenshot.png"
+            ]
+        }
+    }
+}

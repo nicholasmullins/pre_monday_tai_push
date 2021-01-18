@@ -1,0 +1,53 @@
+{
+    "elems": {
+        "iter_00000_step_00003_14_android.widget.TextView.png": [
+            "lnk_intro_image"
+        ], 
+        "iter_00000_step_00003_15_android.widget.TextView.png": [
+            "lnk_transforming_image"
+        ], 
+        "iter_00000_step_00003_19_android.widget.TextView.png": [
+            "lnk_becoming_image"
+        ], 
+        "iter_00000_step_00003_1_android.widget.TextView.png": [
+            "lnk_future_software_image"
+        ], 
+        "iter_00000_step_00003_21_android.widget.TextView.png": [
+            "lnk_two_image"
+        ], 
+        "iter_00000_step_00003_25_android.widget.TextView.png": [
+            "lnk_thirteen_image"
+        ], 
+        "iter_00000_step_00003_27_android.widget.TextView.png": [
+            "lnk_art_int_software_image"
+        ], 
+        "iter_00000_step_00003_31_android.widget.Button.png": [
+            "lnk_test_ai_raises_image"
+        ], 
+        "iter_00000_step_00003_33_android.widget.TextView.png": [
+            "lnk_trends_image"
+        ], 
+        "iter_00000_step_00003_34_android.widget.TextView.png": [
+            "lnk_tisqa_image"
+        ], 
+        "iter_00000_step_00003_38_android.widget.TextView.png": [
+            "lnk_moving_image"
+        ], 
+        "iter_00000_step_00003_7_android.widget.TextView.png": [
+            "lnk_thirty_image"
+        ], 
+        "iter_00000_step_00004_13_android.widget.TextView.png": [
+            "lnk_test_automation_image"
+        ], 
+        "iter_00000_step_00004_15_android.widget.TextView.png": [
+            "lnk_future_testing_image"
+        ], 
+        "iter_00000_step_00004_4_android.widget.TextView.png": [
+            "lnk_new_era_image"
+        ], 
+        "iter_00000_step_00004_9_android.widget.TextView.png": [
+            "lnk_new_era_image"
+        ]
+    }, 
+    "screens": {}
+}

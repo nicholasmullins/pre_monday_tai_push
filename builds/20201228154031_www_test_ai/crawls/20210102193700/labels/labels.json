@@ -1,0 +1,44 @@
+{
+    "elems": {
+        "iter_00000_step_00017_4_a.png": [
+            "lnk_test_ai"
+        ], 
+        "iter_00000_step_00021_38_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00023_30_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00024_10_a.png": [
+            "lnk_careers"
+        ], 
+        "iter_00000_step_00024_20_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00024_22_a.png": [
+            "mi_news"
+        ], 
+        "iter_00000_step_00024_34_a.png": [
+            "mi_team"
+        ], 
+        "iter_00000_step_00024_38_a.png": [
+            "lnk_data_sheet"
+        ], 
+        "iter_00000_step_00024_41_a.png": [
+            "mi_privacy_policy"
+        ], 
+        "iter_00000_step_00024_44_a.png": [
+            "mi_resources"
+        ], 
+        "iter_00000_step_00024_45_a.png": [
+            "mi_about_us"
+        ], 
+        "iter_00000_step_00024_4_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00024_7_a.png": [
+            "mnu_product"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,84 @@
+{
+    "elems": {
+        "iter_00000_step_00012_13_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00015_22_a.png": [
+            "lnk_data_sheet"
+        ], 
+        "iter_00000_step_00017_39_a.png": [
+            "btn_demo_ap"
+        ], 
+        "iter_00000_step_00021_17_a.png": [
+            "mi_personal_edition"
+        ], 
+        "iter_00000_step_00021_1_a.png": [
+            "mi_all_products"
+        ], 
+        "iter_00000_step_00021_6_div.png": [
+            "mi_personal_edition"
+        ], 
+        "iter_00000_step_00033_0_div.png": [
+            "icn_footer_home"
+        ], 
+        "iter_00000_step_00033_15_a.png": [
+            "btn_demo_ap"
+        ], 
+        "iter_00000_step_00033_16_a.png": [
+            "lnk_footer_team"
+        ], 
+        "iter_00000_step_00033_20_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00033_24_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00033_25_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00033_29_svg.png": [
+            "icn_footer_linkedin"
+        ], 
+        "iter_00000_step_00034_37_a.png": [
+            "mnu_product"
+        ], 
+        "iter_00000_step_00037_16_div.png": [
+            "btn_demo"
+        ], 
+        "iter_00000_step_00037_19_a.png": [
+            "lnk_careers"
+        ], 
+        "iter_00000_step_00037_20_a.png": [
+            "lnk_test_ai_two"
+        ], 
+        "iter_00000_step_00037_21_div.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00037_22_a.png": [
+            "lnk_data_sheet"
+        ], 
+        "iter_00000_step_00037_23_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00037_25_a.png": [
+            "lnk_test_ai_one"
+        ], 
+        "iter_00000_step_00037_27_a.png": [
+            "lnk_sales"
+        ], 
+        "iter_00000_step_00037_2_img.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00037_31_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00037_3_a.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00037_7_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00037_9_a.png": []
+    }, 
+    "screens": {}
+}
